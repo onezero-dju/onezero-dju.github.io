@@ -1,0 +1,16 @@
+{
+  "title": "Tutorial - Basics",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/tutorial---basics",
+  "permalink": "/OneZero_website/build/index.html/docs/category/tutorial---basics",
+  "navigation": {
+    "previous": {
+      "title": "Tutorial Intro",
+      "permalink": "/OneZero_website/build/index.html/docs/intro"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/OneZero_website/build/index.html/docs/tutorial-basics/create-a-page"
+    }
+  }
+}
