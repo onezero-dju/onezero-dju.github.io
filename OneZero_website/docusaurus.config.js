@@ -14,12 +14,13 @@ const config = {
   url: 'https://onezero-dju.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/OneZero_website/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'One Zero', // Usually your GitHub org/user name.
-  projectName: 'OneZero_website', // Usually your repo name.
+  organizationName: 'onezero-dju', // Usually your GitHub org/user name.
+  projectName: 'onezero-dju.github.io', // Usually your repo name.
+  deploymentBranch: 'onezero-dju',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

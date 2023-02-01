@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkone_zero_homepage=self.webpackChunkone_zero_homepage||[]).push([[9081],{8267:e=>{e.exports=JSON.parse('{"permalink":"/OneZero_website/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

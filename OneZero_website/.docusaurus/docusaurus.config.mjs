@@ -8,9 +8,10 @@ export default {
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
   "url": "https://onezero-dju.github.io",
-  "baseUrl": "/",
-  "organizationName": "One Zero",
-  "projectName": "OneZero_website",
+  "baseUrl": "/OneZero_website/",
+  "organizationName": "onezero-dju",
+  "projectName": "onezero-dju.github.io",
+  "deploymentBranch": "onezero-dju",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
