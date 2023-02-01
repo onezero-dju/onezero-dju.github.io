@@ -1,5 +1,5 @@
 {
-  "/OneZero_website/build/index.html/blog-422": {
+  "/OneZero_website/build/blog-366": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "cdb4b465"
@@ -19,16 +19,16 @@
         "content": "925b3f96"
       }
     ],
-    "metadata": "9a8c892d"
+    "metadata": "461d43e7"
   },
-  "/OneZero_website/build/index.html/blog/archive-978": {
+  "/OneZero_website/build/blog/archive-e93": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "cdb4b465"
     },
-    "archive": "73c8f281"
+    "archive": "ba5ee4ca"
   },
-  "/OneZero_website/build/index.html/blog/first-blog-post-97d": {
+  "/OneZero_website/build/blog/first-blog-post-d2d": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "cdb4b465"
@@ -36,7 +36,7 @@
     "sidebar": "814f3328",
     "content": "e273c56f"
   },
-  "/OneZero_website/build/index.html/blog/long-blog-post-c75": {
+  "/OneZero_website/build/blog/long-blog-post-0c1": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "cdb4b465"
@@ -44,7 +44,7 @@
     "sidebar": "814f3328",
     "content": "73664a40"
   },
-  "/OneZero_website/build/index.html/blog/mdx-blog-post-662": {
+  "/OneZero_website/build/blog/mdx-blog-post-098": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "cdb4b465"
@@ -52,15 +52,15 @@
     "sidebar": "814f3328",
     "content": "59362658"
   },
-  "/OneZero_website/build/index.html/blog/tags-902": {
+  "/OneZero_website/build/blog/tags-a0c": {
     "__comp": "01a85c17",
     "__context": {
       "plugin": "cdb4b465"
     },
     "sidebar": "814f3328",
-    "tags": "43e60877"
+    "tags": "dd290f48"
   },
-  "/OneZero_website/build/index.html/blog/tags/docusaurus-0ce": {
+  "/OneZero_website/build/blog/tags/docusaurus-15a": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "cdb4b465"
@@ -80,10 +80,10 @@
         "content": "925b3f96"
       }
     ],
-    "tag": "fede69af",
-    "listMetadata": "aeb4a880"
+    "tag": "8e426b90",
+    "listMetadata": "6234e316"
   },
-  "/OneZero_website/build/index.html/blog/tags/facebook-56d": {
+  "/OneZero_website/build/blog/tags/facebook-7e2": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "cdb4b465"
@@ -94,10 +94,10 @@
         "content": "7661071f"
       }
     ],
-    "tag": "365cf8a3",
-    "listMetadata": "67b88a2c"
+    "tag": "7477b68e",
+    "listMetadata": "7e588b5e"
   },
-  "/OneZero_website/build/index.html/blog/tags/hello-ed9": {
+  "/OneZero_website/build/blog/tags/hello-a4d": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "cdb4b465"
@@ -111,10 +111,10 @@
         "content": "8717b14a"
       }
     ],
-    "tag": "332bced1",
-    "listMetadata": "2543d94d"
+    "tag": "8414c9e6",
+    "listMetadata": "51183ab5"
   },
-  "/OneZero_website/build/index.html/blog/tags/hola-ec8": {
+  "/OneZero_website/build/blog/tags/hola-f02": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "cdb4b465"
@@ -125,10 +125,10 @@
         "content": "925b3f96"
       }
     ],
-    "tag": "356cc25c",
-    "listMetadata": "c2c2194f"
+    "tag": "49bbdc19",
+    "listMetadata": "a9be53b9"
   },
-  "/OneZero_website/build/index.html/blog/welcome-359": {
+  "/OneZero_website/build/blog/welcome-8a5": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "cdb4b465"
@@ -136,65 +136,65 @@
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
-  "/OneZero_website/build/index.html/markdown-page-ebf": {
+  "/OneZero_website/build/markdown-page-a9b": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "315a6b1c"
     },
     "content": "393be207"
   },
-  "/OneZero_website/build/index.html/docs-f11": {
+  "/OneZero_website/build/docs-25b": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "ea0ba933"
     },
     "versionMetadata": "935f2afb"
   },
-  "/OneZero_website/build/index.html/docs/category/tutorial---basics-61d": {
+  "/OneZero_website/build/docs/category/tutorial---basics-a6c": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "9f0dde3d"
+    "categoryGeneratedIndex": "d7a9a7be"
   },
-  "/OneZero_website/build/index.html/docs/category/tutorial---extras-077": {
+  "/OneZero_website/build/docs/category/tutorial---extras-39d": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "60b5429a"
+    "categoryGeneratedIndex": "a9b02b0e"
   },
-  "/OneZero_website/build/index.html/docs/intro-acd": {
+  "/OneZero_website/build/docs/intro-f62": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/OneZero_website/build/index.html/docs/tutorial-basics/congratulations-657": {
+  "/OneZero_website/build/docs/tutorial-basics/congratulations-646": {
     "__comp": "17896441",
     "content": "822bd8ab"
   },
-  "/OneZero_website/build/index.html/docs/tutorial-basics/create-a-blog-post-6eb": {
+  "/OneZero_website/build/docs/tutorial-basics/create-a-blog-post-214": {
     "__comp": "17896441",
     "content": "533a09ca"
   },
-  "/OneZero_website/build/index.html/docs/tutorial-basics/create-a-document-378": {
+  "/OneZero_website/build/docs/tutorial-basics/create-a-document-180": {
     "__comp": "17896441",
     "content": "1e4232ab"
   },
-  "/OneZero_website/build/index.html/docs/tutorial-basics/create-a-page-69b": {
+  "/OneZero_website/build/docs/tutorial-basics/create-a-page-1ba": {
     "__comp": "17896441",
     "content": "5c868d36"
   },
-  "/OneZero_website/build/index.html/docs/tutorial-basics/deploy-your-site-5e0": {
+  "/OneZero_website/build/docs/tutorial-basics/deploy-your-site-1dd": {
     "__comp": "17896441",
     "content": "f55d3e7a"
   },
-  "/OneZero_website/build/index.html/docs/tutorial-basics/markdown-features-5b4": {
+  "/OneZero_website/build/docs/tutorial-basics/markdown-features-d3f": {
     "__comp": "17896441",
     "content": "18c41134"
   },
-  "/OneZero_website/build/index.html/docs/tutorial-extras/manage-docs-versions-b8d": {
+  "/OneZero_website/build/docs/tutorial-extras/manage-docs-versions-6bf": {
     "__comp": "17896441",
     "content": "dff1c289"
   },
-  "/OneZero_website/build/index.html/docs/tutorial-extras/translate-your-site-307": {
+  "/OneZero_website/build/docs/tutorial-extras/translate-your-site-a75": {
     "__comp": "17896441",
     "content": "e44a2883"
   },
-  "/OneZero_website/build/index.html/-615": {
+  "/OneZero_website/build/-8a7": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "315a6b1c"

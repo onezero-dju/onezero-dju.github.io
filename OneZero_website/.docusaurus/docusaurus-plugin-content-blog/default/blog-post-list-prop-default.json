@@ -3,19 +3,19 @@
   "items": [
     {
       "title": "Welcome",
-      "permalink": "/OneZero_website/build/index.html/blog/welcome"
+      "permalink": "/OneZero_website/build/blog/welcome"
     },
     {
       "title": "MDX Blog Post",
-      "permalink": "/OneZero_website/build/index.html/blog/mdx-blog-post"
+      "permalink": "/OneZero_website/build/blog/mdx-blog-post"
     },
     {
       "title": "Long Blog Post",
-      "permalink": "/OneZero_website/build/index.html/blog/long-blog-post"
+      "permalink": "/OneZero_website/build/blog/long-blog-post"
     },
     {
       "title": "First Blog Post",
-      "permalink": "/OneZero_website/build/index.html/blog/first-blog-post"
+      "permalink": "/OneZero_website/build/blog/first-blog-post"
     }
   ]
 }

@@ -8,7 +8,7 @@ export default {
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
   "url": "https://onezero-dju.github.io",
-  "baseUrl": "/OneZero_website/build/index.html/",
+  "baseUrl": "/OneZero_website/build/",
   "organizationName": "onezero-dju",
   "projectName": "onezero-dju.github.io",
   "deploymentBranch": "onezero-dju",
