@@ -4,12 +4,17 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/OneZero_website/build/blog',
-    component: ComponentCreator('/OneZero_website/build/blog', '366'),
+    component: ComponentCreator('/OneZero_website/build/blog', '4ec'),
     exact: true
   },
   {
     path: '/OneZero_website/build/blog/archive',
     component: ComponentCreator('/OneZero_website/build/blog/archive', 'e93'),
+    exact: true
+  },
+  {
+    path: '/OneZero_website/build/blog/first post',
+    component: ComponentCreator('/OneZero_website/build/blog/first post', '26a'),
     exact: true
   },
   {
@@ -40,6 +45,11 @@ export default [
   {
     path: '/OneZero_website/build/blog/tags/facebook',
     component: ComponentCreator('/OneZero_website/build/blog/tags/facebook', '7e2'),
+    exact: true
+  },
+  {
+    path: '/OneZero_website/build/blog/tags/greetings',
+    component: ComponentCreator('/OneZero_website/build/blog/tags/greetings', 'd41'),
     exact: true
   },
   {

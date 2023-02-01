@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onezero-dju.github.io/OneZero_website/build/blog</id>
     <title>My Site Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2023-02-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onezero-dju.github.io/OneZero_website/build/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://onezero-dju.github.io/OneZero_website/build/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫 블로그 글]]></title>
+        <id>https://onezero-dju.github.io/OneZero_website/build/blog/first post</id>
+        <link href="https://onezero-dju.github.io/OneZero_website/build/blog/first post"/>
+        <updated>2023-02-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[제작 사이트에서의 첫 글]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="제작-사이트에서의-첫-글">제작 사이트에서의 첫 글<a href="#제작-사이트에서의-첫-글" class="hash-link" aria-label="Direct link to 제작 사이트에서의 첫 글" title="Direct link to 제작 사이트에서의 첫 글">​</a></h2>]]></content>
+        <author>
+            <name>기택</name>
+            <uri>https://github.com/samscientist</uri>
+        </author>
+        <category label="greetings" term="greetings"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://onezero-dju.github.io/OneZero_website/build/blog/welcome</id>

@@ -51,6 +51,10 @@
       "docusaurus"
     ]
   },
+  "prevItem": {
+    "title": "첫 블로그 글",
+    "permalink": "/OneZero_website/build/blog/first post"
+  },
   "nextItem": {
     "title": "MDX Blog Post",
     "permalink": "/OneZero_website/build/blog/mdx-blog-post"

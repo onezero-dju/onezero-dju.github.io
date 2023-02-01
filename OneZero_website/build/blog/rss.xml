@@ -4,10 +4,19 @@
         <title>My Site Blog</title>
         <link>https://onezero-dju.github.io/OneZero_website/build/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[첫 블로그 글]]></title>
+            <link>https://onezero-dju.github.io/OneZero_website/build/blog/first post</link>
+            <guid>https://onezero-dju.github.io/OneZero_website/build/blog/first post</guid>
+            <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[제작 사이트에서의 첫 글]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="제작-사이트에서의-첫-글">제작 사이트에서의 첫 글<a href="#제작-사이트에서의-첫-글" class="hash-link" aria-label="Direct link to 제작 사이트에서의 첫 글" title="Direct link to 제작 사이트에서의 첫 글">​</a></h2>]]></content:encoded>
+            <category>greetings</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://onezero-dju.github.io/OneZero_website/build/blog/welcome</link>

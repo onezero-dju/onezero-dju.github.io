@@ -1,6 +1,56 @@
 {
   "blogPosts": [
     {
+      "id": "first post",
+      "metadata": {
+        "permalink": "/OneZero_website/build/blog/first post",
+        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2023-02-01-RealFirstPost.md",
+        "source": "@site/blog/2023-02-01-RealFirstPost.md",
+        "title": "첫 블로그 글",
+        "description": "제작 사이트에서의 첫 글",
+        "date": "2023-02-01T00:00:00.000Z",
+        "formattedDate": "February 1, 2023",
+        "tags": [
+          {
+            "label": "greetings",
+            "permalink": "/OneZero_website/build/blog/tags/greetings"
+          }
+        ],
+        "readingTime": 0.055,
+        "hasTruncateMarker": false,
+        "authors": [
+          {
+            "name": "기택",
+            "title": "[일영] 회장",
+            "url": "https://github.com/samscientist",
+            "image_url": "https://github.com/samscientist.png",
+            "imageURL": "https://github.com/samscientist.png"
+          }
+        ],
+        "frontMatter": {
+          "slug": "first post",
+          "title": "첫 블로그 글",
+          "authors": [
+            {
+              "name": "기택",
+              "title": "[일영] 회장",
+              "url": "https://github.com/samscientist",
+              "image_url": "https://github.com/samscientist.png",
+              "imageURL": "https://github.com/samscientist.png"
+            }
+          ],
+          "tags": [
+            "greetings"
+          ]
+        },
+        "nextItem": {
+          "title": "Welcome",
+          "permalink": "/OneZero_website/build/blog/welcome"
+        }
+      },
+      "content": "## 제작 사이트에서의 첫 글"
+    },
+    {
       "id": "welcome",
       "metadata": {
         "permalink": "/OneZero_website/build/blog/welcome",
@@ -54,6 +104,10 @@
             "hello",
             "docusaurus"
           ]
+        },
+        "prevItem": {
+          "title": "첫 블로그 글",
+          "permalink": "/OneZero_website/build/blog/first post"
         },
         "nextItem": {
           "title": "MDX Blog Post",

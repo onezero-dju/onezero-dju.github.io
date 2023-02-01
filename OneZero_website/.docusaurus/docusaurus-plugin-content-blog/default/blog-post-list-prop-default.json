@@ -2,6 +2,10 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "첫 블로그 글",
+      "permalink": "/OneZero_website/build/blog/first post"
+    },
+    {
       "title": "Welcome",
       "permalink": "/OneZero_website/build/blog/welcome"
     },
