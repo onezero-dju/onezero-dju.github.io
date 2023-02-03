@@ -16,7 +16,7 @@
             "permalink": "/OneZero_website/build/blog/tags/greetings"
           }
         ],
-        "readingTime": 0.055,
+        "readingTime": 0.225,
         "hasTruncateMarker": false,
         "authors": [
           {
@@ -48,7 +48,7 @@
           "permalink": "/OneZero_website/build/blog/welcome"
         }
       },
-      "content": "## 제작 사이트에서의 첫 글"
+      "content": "## 제작 사이트에서의 첫 글\r\n\r\n```mermaid\r\ngantt\r\n    title A Gantt Diagram\r\n    dateFormat  YYYY-MM-DD\r\n    section Section\r\n    A task           :a1, 2014-01-01, 30d\r\n    Another task     :after a1  , 20d\r\n    section Another\r\n    Task in sec      :2014-01-12  , 12d\r\n    another task      : 24d\r\n```"
     },
     {
       "id": "welcome",
