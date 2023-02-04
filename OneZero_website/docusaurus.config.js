@@ -67,6 +67,17 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      mermaid: {
+        options: {
+          gantt: {
+            barHeight: 45,    // The height of the bars in the graph. default=20
+            fontSize: 40,     // Font size for tasks. default=11
+            sectionFontSize: 30, // Font size for secions. default=11
+            leftPadding: 140,  // The space allocated for the section name to the left of the activities. default=75
+            axisFormat: '%Y-%m-%d',
+          },
+        },
+      },
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {

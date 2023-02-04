@@ -47,6 +47,21 @@ export default {
     "@docusaurus/theme-mermaid"
   ],
   "themeConfig": {
+    "mermaid": {
+      "options": {
+        "gantt": {
+          "barHeight": 45,
+          "fontSize": 40,
+          "sectionFontSize": 30,
+          "leftPadding": 140,
+          "axisFormat": "%Y-%m-%d"
+        }
+      },
+      "theme": {
+        "dark": "dark",
+        "light": "default"
+      }
+    },
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
       "title": "My Site",
@@ -339,13 +354,6 @@ export default {
     "tableOfContents": {
       "minHeadingLevel": 2,
       "maxHeadingLevel": 3
-    },
-    "mermaid": {
-      "theme": {
-        "dark": "dark",
-        "light": "default"
-      },
-      "options": {}
     }
   },
   "baseUrlIssueBanner": true,
