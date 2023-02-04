@@ -25,12 +25,20 @@
     "docusaurus-theme-classic": {
       "type": "package",
       "name": "@docusaurus/theme-classic",
+<<<<<<< HEAD
       "version": "2.3.1"
+=======
+      "version": "2.3.0"
+>>>>>>> dc7b956331dc975de555cf947b63fb4602e8c7b0
     },
     "docusaurus-theme-mermaid": {
       "type": "package",
       "name": "@docusaurus/theme-mermaid",
+<<<<<<< HEAD
       "version": "2.3.1"
+=======
+      "version": "2.3.0"
+>>>>>>> dc7b956331dc975de555cf947b63fb4602e8c7b0
     }
   }
 }
