@@ -240,24 +240,18 @@
     "179": {
       "js": [
         {
-<<<<<<< HEAD
           "file": "assets/js/main.caf94d8f.js",
           "hash": "e6deb5f0aa14acea",
           "publicPath": "/OneZero_website/build/assets/js/main.caf94d8f.js"
-=======
-          "file": "assets/js/main.d44d9720.js",
-          "hash": "06688e95307433e3",
-          "publicPath": "/OneZero_website/build/assets/js/main.d44d9720.js"
->>>>>>> dc7b956331dc975de555cf947b63fb4602e8c7b0
         }
       ]
     },
     "532": {
       "css": [
         {
-          "file": "assets/css/styles.332b9fe7.css",
-          "hash": "987df5f4718b223f",
-          "publicPath": "/OneZero_website/build/assets/css/styles.332b9fe7.css"
+          "file": "assets/css/styles.3cb0b365.css",
+          "hash": "f5130cd1359b7bf6",
+          "publicPath": "/OneZero_website/build/assets/css/styles.3cb0b365.css"
         }
       ]
     },
@@ -292,11 +286,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.7ebb4c53.js",
-<<<<<<< HEAD
-          "hash": "2d994fa35460808d",
-=======
-          "hash": "5ef665c7bcccf3ba",
->>>>>>> dc7b956331dc975de555cf947b63fb4602e8c7b0
+          "hash": "a3af00c8916d4beb",
           "publicPath": "/OneZero_website/build/assets/js/runtime~main.7ebb4c53.js"
         }
       ]
@@ -494,7 +484,7 @@
       "js": [
         {
           "file": "assets/js/c4f5d8e4.a232c4ff.js",
-          "hash": "b9325eae05c54adc",
+          "hash": "da6259610360fb7a",
           "publicPath": "/OneZero_website/build/assets/js/c4f5d8e4.a232c4ff.js"
         }
       ]
