@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onezero-dju.github.io/OneZero_website/build/blog</id>
-    <title>My Site Blog</title>
+    <title>일영 Blog</title>
     <updated>2023-02-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onezero-dju.github.io/OneZero_website/build/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>일영 Blog</subtitle>
     <icon>https://onezero-dju.github.io/OneZero_website/build/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[첫 블로그 글]]></title>

@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
+  "title": "일영",
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
   "url": "https://onezero-dju.github.io",
@@ -64,9 +64,9 @@ export default {
     },
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "One Zero",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "[One Zero] Logo",
         "src": "img/logo.svg"
       },
       "items": [
