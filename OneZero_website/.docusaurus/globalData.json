@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Trouble Shooting/congratulations",
+              "path": "/OneZero_website/build/docs/Trouble Shooting/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tutorial-basics/congratulations",
               "path": "/OneZero_website/build/docs/tutorial-basics/congratulations",
               "sidebar": "tutorialSidebar"
@@ -63,6 +68,11 @@
             {
               "id": "/category/tutorial---extras",
               "path": "/OneZero_website/build/docs/category/tutorial---extras",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/troubleshooting",
+              "path": "/OneZero_website/build/docs/category/troubleshooting",
               "sidebar": "tutorialSidebar"
             }
           ],

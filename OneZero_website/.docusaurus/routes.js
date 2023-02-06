@@ -74,8 +74,14 @@ export default [
   },
   {
     path: '/OneZero_website/build/docs',
-    component: ComponentCreator('/OneZero_website/build/docs', '25b'),
+    component: ComponentCreator('/OneZero_website/build/docs', 'fc9'),
     routes: [
+      {
+        path: '/OneZero_website/build/docs/category/troubleshooting',
+        component: ComponentCreator('/OneZero_website/build/docs/category/troubleshooting', '9fc'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
       {
         path: '/OneZero_website/build/docs/category/tutorial---basics',
         component: ComponentCreator('/OneZero_website/build/docs/category/tutorial---basics', 'a6c'),
@@ -91,6 +97,12 @@ export default [
       {
         path: '/OneZero_website/build/docs/intro',
         component: ComponentCreator('/OneZero_website/build/docs/intro', 'f62'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/OneZero_website/build/docs/Trouble Shooting/congratulations',
+        component: ComponentCreator('/OneZero_website/build/docs/Trouble Shooting/congratulations', 'fa5'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

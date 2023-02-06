@@ -168,12 +168,16 @@
     },
     "content": "393be207"
   },
-  "/OneZero_website/build/docs-25b": {
+  "/OneZero_website/build/docs-fc9": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "ea0ba933"
     },
     "versionMetadata": "935f2afb"
+  },
+  "/OneZero_website/build/docs/category/troubleshooting-9fc": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "1c3f92b6"
   },
   "/OneZero_website/build/docs/category/tutorial---basics-a6c": {
     "__comp": "14eb3368",
@@ -186,6 +190,10 @@
   "/OneZero_website/build/docs/intro-f62": {
     "__comp": "17896441",
     "content": "0e384e19"
+  },
+  "/OneZero_website/build/docs/Trouble Shooting/congratulations-fa5": {
+    "__comp": "17896441",
+    "content": "ee81c86d"
   },
   "/OneZero_website/build/docs/tutorial-basics/congratulations-646": {
     "__comp": "17896441",
