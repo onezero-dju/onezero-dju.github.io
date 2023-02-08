@@ -20,7 +20,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'onezero-dju', // Usually your GitHub org/user name.
   projectName: 'onezero-dju.github.io', // Usually your repo name.
-  deploymentBranch: 'main',
+  deploymentBranch: 'pre-deploy',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

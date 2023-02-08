@@ -11,7 +11,7 @@ export default {
   "baseUrl": "/OneZero_website/build/",
   "organizationName": "onezero-dju",
   "projectName": "onezero-dju.github.io",
-  "deploymentBranch": "onezero-dju",
+  "deploymentBranch": "pre-deploy",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
