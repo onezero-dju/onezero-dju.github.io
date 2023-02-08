@@ -90,8 +90,8 @@
           {
             "type": "link",
             "label": "Test",
-            "href": "/OneZero_website/build/docs/Trouble Shooting/congratulations",
-            "docId": "Trouble Shooting/congratulations"
+            "href": "/OneZero_website/build/docs/Trouble Shooting/test",
+            "docId": "Trouble Shooting/test"
           }
         ],
         "href": "/OneZero_website/build/docs/category/troubleshooting"
@@ -105,8 +105,8 @@
       "description": "Let's discover Docusaurus in less than 5 minutes.",
       "sidebar": "tutorialSidebar"
     },
-    "Trouble Shooting/congratulations": {
-      "id": "Trouble Shooting/congratulations",
+    "Trouble Shooting/test": {
+      "id": "Trouble Shooting/test",
       "title": "Test",
       "description": "This is a test page",
       "sidebar": "tutorialSidebar"
