@@ -11,8 +11,53 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "HOW To Use/tutorial-basics/congratulations",
+              "path": "/OneZero_website/build/docs/HOW To Use/tutorial-basics/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "HOW To Use/tutorial-basics/create-a-blog-post",
+              "path": "/OneZero_website/build/docs/HOW To Use/tutorial-basics/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "HOW To Use/tutorial-basics/create-a-document",
+              "path": "/OneZero_website/build/docs/HOW To Use/tutorial-basics/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "HOW To Use/tutorial-basics/create-a-page",
+              "path": "/OneZero_website/build/docs/HOW To Use/tutorial-basics/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "HOW To Use/tutorial-basics/deploy-your-site",
+              "path": "/OneZero_website/build/docs/HOW To Use/tutorial-basics/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "HOW To Use/tutorial-basics/markdown-features",
+              "path": "/OneZero_website/build/docs/HOW To Use/tutorial-basics/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "HOW To Use/tutorial-extras/manage-docs-versions",
+              "path": "/OneZero_website/build/docs/HOW To Use/tutorial-extras/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "HOW To Use/tutorial-extras/translate-your-site",
+              "path": "/OneZero_website/build/docs/HOW To Use/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/OneZero_website/build/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "School Lecture/testTXT",
+              "path": "/OneZero_website/build/docs/School Lecture/testTXT",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -21,43 +66,33 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/OneZero_website/build/docs/tutorial-basics/congratulations",
+              "id": "Trouble Shooting/testDoc/test",
+              "path": "/OneZero_website/build/docs/Trouble Shooting/testDoc/test",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/OneZero_website/build/docs/tutorial-basics/create-a-blog-post",
+              "id": "Wiki/App/Flutter/testTXT",
+              "path": "/OneZero_website/build/docs/Wiki/App/Flutter/testTXT",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/OneZero_website/build/docs/tutorial-basics/create-a-document",
+              "id": "Wiki/App/React Native/testTXT",
+              "path": "/OneZero_website/build/docs/Wiki/App/React Native/testTXT",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/OneZero_website/build/docs/tutorial-basics/create-a-page",
+              "id": "Wiki/Dev Env/Powershell/testTXT",
+              "path": "/OneZero_website/build/docs/Wiki/Dev Env/Powershell/testTXT",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/OneZero_website/build/docs/tutorial-basics/deploy-your-site",
+              "id": "Wiki/Web/JavaScript/testTXT",
+              "path": "/OneZero_website/build/docs/Wiki/Web/JavaScript/testTXT",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/OneZero_website/build/docs/tutorial-basics/markdown-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/OneZero_website/build/docs/tutorial-extras/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/OneZero_website/build/docs/tutorial-extras/translate-your-site",
+              "id": "Wiki/Web/React/testTXT",
+              "path": "/OneZero_website/build/docs/Wiki/Web/React/testTXT",
               "sidebar": "tutorialSidebar"
             },
             {

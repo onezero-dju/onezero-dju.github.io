@@ -1,0 +1,16 @@
+{
+  "title": "School Lecture",
+  "description": "컴퓨터공학과 전공 과목에 대한 개괄을 포함하고 있습니다.",
+  "slug": "/category/school-lecture",
+  "permalink": "/OneZero_website/build/docs/category/school-lecture",
+  "navigation": {
+    "previous": {
+      "title": "Test",
+      "permalink": "/OneZero_website/build/docs/Trouble Shooting/test"
+    },
+    "next": {
+      "title": "Test",
+      "permalink": "/OneZero_website/build/docs/School Lecture/test"
+    }
+  }
+}

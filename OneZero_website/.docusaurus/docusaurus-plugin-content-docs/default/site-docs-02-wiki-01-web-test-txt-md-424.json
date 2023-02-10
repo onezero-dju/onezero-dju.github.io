@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Wiki/Web/testTXT",
+  "id": "Wiki/Web/testTXT",
+  "title": "testTXT",
+  "description": "",
+  "source": "@site/docs/02-Wiki/01-Web/testTXT.md",
+  "sourceDirName": "02-Wiki/01-Web",
+  "slug": "/Wiki/Web/testTXT",
+  "permalink": "/OneZero_website/build/docs/Wiki/Web/testTXT",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-Wiki/01-Web/testTXT.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/OneZero_website/build/docs/HOW To Use/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "testTXT",
+    "permalink": "/OneZero_website/build/docs/Wiki/App/Flutter/testTXT"
+  }
+}

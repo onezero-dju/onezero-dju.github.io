@@ -1,0 +1,16 @@
+{
+  "title": "Tutorials",
+  "description": "Tutorials for Docusaurus",
+  "slug": "/category/tutorials",
+  "permalink": "/OneZero_website/build/docs/category/tutorials",
+  "navigation": {
+    "previous": {
+      "title": "Test",
+      "permalink": "/OneZero_website/build/docs/Wiki/test"
+    },
+    "next": {
+      "title": "Tutorial - Basics",
+      "permalink": "/OneZero_website/build/docs/category/tutorial---basics"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "HOW To Use/intro",
+  "id": "HOW To Use/intro",
+  "title": "Tutorial Intro",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/01-HOW To Use/intro.md",
+  "sourceDirName": "01-HOW To Use",
+  "slug": "/HOW To Use/intro",
+  "permalink": "/OneZero_website/build/docs/HOW To Use/intro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-HOW To Use/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/OneZero_website/build/docs/category/tutorial---basics"
+  }
+}
