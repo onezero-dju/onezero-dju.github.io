@@ -77,6 +77,12 @@ export default {
           "label": "Tutorial"
         },
         {
+          "type": "doc",
+          "docId": "intro",
+          "position": "left",
+          "label": "Wiki"
+        },
+        {
           "to": "/blog",
           "label": "Blog",
           "position": "left"
