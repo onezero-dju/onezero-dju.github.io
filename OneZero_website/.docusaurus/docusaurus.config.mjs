@@ -5,7 +5,7 @@
  */
 export default {
   "title": "일영",
-  "tagline": "Dinosaurs are cool",
+  "tagline": "One-Zero",
   "favicon": "img/favicon.ico",
   "url": "https://onezero-dju.github.io",
   "baseUrl": "/OneZero_website/build/",

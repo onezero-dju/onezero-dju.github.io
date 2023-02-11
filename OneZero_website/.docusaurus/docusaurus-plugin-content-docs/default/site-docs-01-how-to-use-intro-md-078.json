@@ -11,9 +11,9 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-HOW To Use/intro.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 0,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 0
   },
   "sidebar": "tutorialSidebar",
   "next": {
