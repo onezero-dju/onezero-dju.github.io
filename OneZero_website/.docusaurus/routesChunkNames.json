@@ -1,5 +1,5 @@
 {
-  "/OneZero_website/build/blog-4ec": {
+  "/OneZero_website/build/en/blog-f66": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "cdb4b465"
@@ -22,16 +22,16 @@
         "content": "925b3f96"
       }
     ],
-    "metadata": "461d43e7"
+    "metadata": "66db246d"
   },
-  "/OneZero_website/build/blog/archive-e93": {
+  "/OneZero_website/build/en/blog/archive-0be": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "cdb4b465"
     },
-    "archive": "ba5ee4ca"
+    "archive": "27291635"
   },
-  "/OneZero_website/build/blog/first post-26a": {
+  "/OneZero_website/build/en/blog/first post-57a": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "cdb4b465"
@@ -39,7 +39,7 @@
     "sidebar": "814f3328",
     "content": "ab84d47b"
   },
-  "/OneZero_website/build/blog/first-blog-post-d2d": {
+  "/OneZero_website/build/en/blog/first-blog-post-127": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "cdb4b465"
@@ -47,7 +47,7 @@
     "sidebar": "814f3328",
     "content": "e273c56f"
   },
-  "/OneZero_website/build/blog/long-blog-post-0c1": {
+  "/OneZero_website/build/en/blog/long-blog-post-3a1": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "cdb4b465"
@@ -55,7 +55,7 @@
     "sidebar": "814f3328",
     "content": "73664a40"
   },
-  "/OneZero_website/build/blog/mdx-blog-post-098": {
+  "/OneZero_website/build/en/blog/mdx-blog-post-f2d": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "cdb4b465"
@@ -63,15 +63,15 @@
     "sidebar": "814f3328",
     "content": "59362658"
   },
-  "/OneZero_website/build/blog/tags-a0c": {
+  "/OneZero_website/build/en/blog/tags-d6d": {
     "__comp": "01a85c17",
     "__context": {
       "plugin": "cdb4b465"
     },
     "sidebar": "814f3328",
-    "tags": "dd290f48"
+    "tags": "7fe7e7ef"
   },
-  "/OneZero_website/build/blog/tags/docusaurus-15a": {
+  "/OneZero_website/build/en/blog/tags/docusaurus-03f": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "cdb4b465"
@@ -91,10 +91,10 @@
         "content": "925b3f96"
       }
     ],
-    "tag": "8e426b90",
-    "listMetadata": "6234e316"
+    "tag": "68fff38a",
+    "listMetadata": "81f3e2ea"
   },
-  "/OneZero_website/build/blog/tags/facebook-7e2": {
+  "/OneZero_website/build/en/blog/tags/facebook-a67": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "cdb4b465"
@@ -105,10 +105,10 @@
         "content": "7661071f"
       }
     ],
-    "tag": "7477b68e",
-    "listMetadata": "7e588b5e"
+    "tag": "4e208616",
+    "listMetadata": "7eb846d9"
   },
-  "/OneZero_website/build/blog/tags/greetings-d41": {
+  "/OneZero_website/build/en/blog/tags/greetings-5e6": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "cdb4b465"
@@ -119,10 +119,10 @@
         "content": "2dd39cb0"
       }
     ],
-    "tag": "f5f3177f",
-    "listMetadata": "77d31319"
+    "tag": "2e3ee0d8",
+    "listMetadata": "572d0a10"
   },
-  "/OneZero_website/build/blog/tags/hello-a4d": {
+  "/OneZero_website/build/en/blog/tags/hello-53e": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "cdb4b465"
@@ -136,10 +136,10 @@
         "content": "8717b14a"
       }
     ],
-    "tag": "8414c9e6",
-    "listMetadata": "51183ab5"
+    "tag": "13d2f51f",
+    "listMetadata": "4b44316e"
   },
-  "/OneZero_website/build/blog/tags/hola-f02": {
+  "/OneZero_website/build/en/blog/tags/hola-249": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "cdb4b465"
@@ -150,10 +150,10 @@
         "content": "925b3f96"
       }
     ],
-    "tag": "49bbdc19",
-    "listMetadata": "a9be53b9"
+    "tag": "51a302bf",
+    "listMetadata": "23389f51"
   },
-  "/OneZero_website/build/blog/welcome-8a5": {
+  "/OneZero_website/build/en/blog/welcome-d31": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "cdb4b465"
@@ -161,101 +161,101 @@
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
-  "/OneZero_website/build/markdown-page-a9b": {
+  "/OneZero_website/build/en/markdown-page-cf8": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "315a6b1c"
     },
     "content": "393be207"
   },
-  "/OneZero_website/build/docs-12e": {
+  "/OneZero_website/build/en/docs-8ec": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "ea0ba933"
     },
     "versionMetadata": "935f2afb"
   },
-  "/OneZero_website/build/docs/category/troubleshooting-9fc": {
+  "/OneZero_website/build/en/docs/category/troubleshooting-b45": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "1c3f92b6"
+    "categoryGeneratedIndex": "d0bebf23"
   },
-  "/OneZero_website/build/docs/category/tutorial---basics-a6c": {
+  "/OneZero_website/build/en/docs/category/tutorial---basics-d74": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "d7a9a7be"
+    "categoryGeneratedIndex": "3fa112d7"
   },
-  "/OneZero_website/build/docs/category/tutorial---extras-39d": {
+  "/OneZero_website/build/en/docs/category/tutorial---extras-fef": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "a9b02b0e"
+    "categoryGeneratedIndex": "fb3aad46"
   },
-  "/OneZero_website/build/docs/HOW To Use/tutorial-basics/congratulations-46f": {
+  "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/congratulations-7ba": {
     "__comp": "17896441",
     "content": "86ad241b"
   },
-  "/OneZero_website/build/docs/HOW To Use/tutorial-basics/create-a-blog-post-17b": {
+  "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/create-a-blog-post-8ae": {
     "__comp": "17896441",
     "content": "c512d408"
   },
-  "/OneZero_website/build/docs/HOW To Use/tutorial-basics/create-a-document-63e": {
+  "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/create-a-document-4ea": {
     "__comp": "17896441",
     "content": "0ed2a5c6"
   },
-  "/OneZero_website/build/docs/HOW To Use/tutorial-basics/create-a-page-73b": {
+  "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/create-a-page-b63": {
     "__comp": "17896441",
     "content": "6f7a60d0"
   },
-  "/OneZero_website/build/docs/HOW To Use/tutorial-basics/deploy-your-site-5b9": {
+  "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/deploy-your-site-8ed": {
     "__comp": "17896441",
     "content": "1c46b9ac"
   },
-  "/OneZero_website/build/docs/HOW To Use/tutorial-basics/markdown-features-17b": {
+  "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/markdown-features-5ec": {
     "__comp": "17896441",
     "content": "935cb3cc"
   },
-  "/OneZero_website/build/docs/HOW To Use/tutorial-extras/manage-docs-versions-2bf": {
+  "/OneZero_website/build/en/docs/HOW To Use/tutorial-extras/manage-docs-versions-3da": {
     "__comp": "17896441",
     "content": "2fa70729"
   },
-  "/OneZero_website/build/docs/HOW To Use/tutorial-extras/translate-your-site-372": {
+  "/OneZero_website/build/en/docs/HOW To Use/tutorial-extras/translate-your-site-d64": {
     "__comp": "17896441",
     "content": "d1f5f99c"
   },
-  "/OneZero_website/build/docs/intro-f62": {
+  "/OneZero_website/build/en/docs/intro-5b6": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/OneZero_website/build/docs/School Lecture/testTXT-409": {
+  "/OneZero_website/build/en/docs/School Lecture/testTXT-dec": {
     "__comp": "17896441",
     "content": "25b0a1ae"
   },
-  "/OneZero_website/build/docs/Trouble Shooting/test-0b4": {
+  "/OneZero_website/build/en/docs/Trouble Shooting/test-b67": {
     "__comp": "17896441",
     "content": "3079635f"
   },
-  "/OneZero_website/build/docs/Trouble Shooting/testDoc/test-2cb": {
+  "/OneZero_website/build/en/docs/Trouble Shooting/testDoc/test-bba": {
     "__comp": "17896441",
     "content": "f3bf8aa0"
   },
-  "/OneZero_website/build/docs/Wiki/App/Flutter/testTXT-787": {
+  "/OneZero_website/build/en/docs/Wiki/App/Flutter/testTXT-722": {
     "__comp": "17896441",
     "content": "ddf70b66"
   },
-  "/OneZero_website/build/docs/Wiki/App/React Native/testTXT-07b": {
+  "/OneZero_website/build/en/docs/Wiki/App/React Native/testTXT-057": {
     "__comp": "17896441",
     "content": "e83e3a6d"
   },
-  "/OneZero_website/build/docs/Wiki/Dev Env/Powershell/testTXT-2db": {
+  "/OneZero_website/build/en/docs/Wiki/Dev Env/Powershell/testTXT-bed": {
     "__comp": "17896441",
     "content": "0d21e4d8"
   },
-  "/OneZero_website/build/docs/Wiki/Web/JavaScript/testTXT-e18": {
+  "/OneZero_website/build/en/docs/Wiki/Web/JavaScript/testTXT-0ef": {
     "__comp": "17896441",
     "content": "fab5843d"
   },
-  "/OneZero_website/build/docs/Wiki/Web/React/testTXT-fb6": {
+  "/OneZero_website/build/en/docs/Wiki/Web/React/testTXT-03f": {
     "__comp": "17896441",
     "content": "93ddff33"
   },
-  "/OneZero_website/build/-8a7": {
+  "/OneZero_website/build/en/-5f3": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "315a6b1c"

@@ -6,7 +6,7 @@
   "source": "@site/docs/01-HOW To Use/tutorial-extras/manage-docs-versions.md",
   "sourceDirName": "01-HOW To Use/tutorial-extras",
   "slug": "/HOW To Use/tutorial-extras/manage-docs-versions",
-  "permalink": "/OneZero_website/build/docs/HOW To Use/tutorial-extras/manage-docs-versions",
+  "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-extras/manage-docs-versions",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-HOW To Use/tutorial-extras/manage-docs-versions.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Tutorial - Extras",
-    "permalink": "/OneZero_website/build/docs/category/tutorial---extras"
+    "permalink": "/OneZero_website/build/en/docs/category/tutorial---extras"
   },
   "next": {
     "title": "Translate your site",
-    "permalink": "/OneZero_website/build/docs/HOW To Use/tutorial-extras/translate-your-site"
+    "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-extras/translate-your-site"
   }
 }

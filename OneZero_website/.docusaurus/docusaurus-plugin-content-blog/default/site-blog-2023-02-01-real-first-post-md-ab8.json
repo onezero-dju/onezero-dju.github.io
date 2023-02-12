@@ -1,5 +1,5 @@
 {
-  "permalink": "/OneZero_website/build/blog/first post",
+  "permalink": "/OneZero_website/build/en/blog/first post",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2023-02-01-RealFirstPost.md",
   "source": "@site/blog/2023-02-01-RealFirstPost.md",
   "title": "첫 블로그 글",
@@ -9,7 +9,7 @@
   "tags": [
     {
       "label": "greetings",
-      "permalink": "/OneZero_website/build/blog/tags/greetings"
+      "permalink": "/OneZero_website/build/en/blog/tags/greetings"
     }
   ],
   "readingTime": 0.225,
@@ -41,6 +41,6 @@
   },
   "nextItem": {
     "title": "Welcome",
-    "permalink": "/OneZero_website/build/blog/welcome"
+    "permalink": "/OneZero_website/build/en/blog/welcome"
   }
 }

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkone_zero_homepage=self.webpackChunkone_zero_homepage||[]).push([[6988],{4038:e=>{e.exports=JSON.parse('{"permalink":"/OneZero_website/build/en/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

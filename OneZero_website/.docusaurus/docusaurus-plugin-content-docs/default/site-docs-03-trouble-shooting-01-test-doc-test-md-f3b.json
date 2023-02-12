@@ -6,7 +6,7 @@
   "source": "@site/docs/03-Trouble Shooting/01-testDoc/test.md",
   "sourceDirName": "03-Trouble Shooting/01-testDoc",
   "slug": "/Trouble Shooting/testDoc/test",
-  "permalink": "/OneZero_website/build/docs/Trouble Shooting/testDoc/test",
+  "permalink": "/OneZero_website/build/en/docs/Trouble Shooting/testDoc/test",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/03-Trouble Shooting/01-testDoc/test.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Troubleshooting",
-    "permalink": "/OneZero_website/build/docs/category/troubleshooting"
+    "permalink": "/OneZero_website/build/en/docs/category/troubleshooting"
   },
   "next": {
     "title": "Test",
-    "permalink": "/OneZero_website/build/docs/Trouble Shooting/test"
+    "permalink": "/OneZero_website/build/en/docs/Trouble Shooting/test"
   }
 }

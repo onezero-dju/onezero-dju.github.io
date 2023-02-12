@@ -8,15 +8,16 @@ export default {
   "tagline": "One-Zero",
   "favicon": "img/favicon.ico",
   "url": "https://onezero-dju.github.io",
-  "baseUrl": "/OneZero_website/build/",
+  "baseUrl": "/OneZero_website/build/en/",
   "organizationName": "onezero-dju",
   "projectName": "onezero-dju.github.io",
   "deploymentBranch": "pre-deploy",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
-    "defaultLocale": "en",
+    "defaultLocale": "ko",
     "locales": [
+      "ko",
       "en"
     ],
     "path": "i18n",
@@ -91,6 +92,12 @@ export default {
           "href": "https://github.com/facebook/docusaurus",
           "label": "GitHub",
           "position": "right"
+        },
+        {
+          "type": "localeDropdown",
+          "position": "right",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
         }
       ],
       "hideOnScroll": false

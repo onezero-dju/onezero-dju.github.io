@@ -1,113 +1,113 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/OneZero_website/build/docs",
+      "path": "/OneZero_website/build/en/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/OneZero_website/build/docs",
+          "path": "/OneZero_website/build/en/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "HOW To Use/tutorial-basics/congratulations",
-              "path": "/OneZero_website/build/docs/HOW To Use/tutorial-basics/congratulations",
+              "path": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/congratulations",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "HOW To Use/tutorial-basics/create-a-blog-post",
-              "path": "/OneZero_website/build/docs/HOW To Use/tutorial-basics/create-a-blog-post",
+              "path": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/create-a-blog-post",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "HOW To Use/tutorial-basics/create-a-document",
-              "path": "/OneZero_website/build/docs/HOW To Use/tutorial-basics/create-a-document",
+              "path": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/create-a-document",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "HOW To Use/tutorial-basics/create-a-page",
-              "path": "/OneZero_website/build/docs/HOW To Use/tutorial-basics/create-a-page",
+              "path": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/create-a-page",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "HOW To Use/tutorial-basics/deploy-your-site",
-              "path": "/OneZero_website/build/docs/HOW To Use/tutorial-basics/deploy-your-site",
+              "path": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/deploy-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "HOW To Use/tutorial-basics/markdown-features",
-              "path": "/OneZero_website/build/docs/HOW To Use/tutorial-basics/markdown-features",
+              "path": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "HOW To Use/tutorial-extras/manage-docs-versions",
-              "path": "/OneZero_website/build/docs/HOW To Use/tutorial-extras/manage-docs-versions",
+              "path": "/OneZero_website/build/en/docs/HOW To Use/tutorial-extras/manage-docs-versions",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "HOW To Use/tutorial-extras/translate-your-site",
-              "path": "/OneZero_website/build/docs/HOW To Use/tutorial-extras/translate-your-site",
+              "path": "/OneZero_website/build/en/docs/HOW To Use/tutorial-extras/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/OneZero_website/build/docs/intro",
+              "path": "/OneZero_website/build/en/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "School Lecture/testTXT",
-              "path": "/OneZero_website/build/docs/School Lecture/testTXT",
+              "path": "/OneZero_website/build/en/docs/School Lecture/testTXT",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Trouble Shooting/test",
-              "path": "/OneZero_website/build/docs/Trouble Shooting/test",
+              "path": "/OneZero_website/build/en/docs/Trouble Shooting/test",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Trouble Shooting/testDoc/test",
-              "path": "/OneZero_website/build/docs/Trouble Shooting/testDoc/test",
+              "path": "/OneZero_website/build/en/docs/Trouble Shooting/testDoc/test",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Wiki/App/Flutter/testTXT",
-              "path": "/OneZero_website/build/docs/Wiki/App/Flutter/testTXT",
+              "path": "/OneZero_website/build/en/docs/Wiki/App/Flutter/testTXT",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Wiki/App/React Native/testTXT",
-              "path": "/OneZero_website/build/docs/Wiki/App/React Native/testTXT",
+              "path": "/OneZero_website/build/en/docs/Wiki/App/React Native/testTXT",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Wiki/Dev Env/Powershell/testTXT",
-              "path": "/OneZero_website/build/docs/Wiki/Dev Env/Powershell/testTXT",
+              "path": "/OneZero_website/build/en/docs/Wiki/Dev Env/Powershell/testTXT",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Wiki/Web/JavaScript/testTXT",
-              "path": "/OneZero_website/build/docs/Wiki/Web/JavaScript/testTXT",
+              "path": "/OneZero_website/build/en/docs/Wiki/Web/JavaScript/testTXT",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Wiki/Web/React/testTXT",
-              "path": "/OneZero_website/build/docs/Wiki/Web/React/testTXT",
+              "path": "/OneZero_website/build/en/docs/Wiki/Web/React/testTXT",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/tutorial---basics",
-              "path": "/OneZero_website/build/docs/category/tutorial---basics",
+              "path": "/OneZero_website/build/en/docs/category/tutorial---basics",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/tutorial---extras",
-              "path": "/OneZero_website/build/docs/category/tutorial---extras",
+              "path": "/OneZero_website/build/en/docs/category/tutorial---extras",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/troubleshooting",
-              "path": "/OneZero_website/build/docs/category/troubleshooting",
+              "path": "/OneZero_website/build/en/docs/category/troubleshooting",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -115,7 +115,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/OneZero_website/build/docs/intro",
+                "path": "/OneZero_website/build/en/docs/intro",
                 "label": "intro"
               }
             }

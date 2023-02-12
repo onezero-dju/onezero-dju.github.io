@@ -1,0 +1,15 @@
+{
+  "title": "Tutorial - Extras",
+  "slug": "/category/tutorial---extras",
+  "permalink": "/OneZero_website/build/en/docs/category/tutorial---extras",
+  "navigation": {
+    "previous": {
+      "title": "Congratulations!",
+      "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/congratulations"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-extras/manage-docs-versions"
+    }
+  }
+}
