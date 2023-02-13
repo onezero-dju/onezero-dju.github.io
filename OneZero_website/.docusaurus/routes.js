@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/OneZero_website/build/en/__docusaurus/debug',
-    component: ComponentCreator('/OneZero_website/build/en/__docusaurus/debug', '966'),
-    exact: true
-  },
-  {
-    path: '/OneZero_website/build/en/__docusaurus/debug/config',
-    component: ComponentCreator('/OneZero_website/build/en/__docusaurus/debug/config', '79f'),
-    exact: true
-  },
-  {
-    path: '/OneZero_website/build/en/__docusaurus/debug/content',
-    component: ComponentCreator('/OneZero_website/build/en/__docusaurus/debug/content', '01b'),
-    exact: true
-  },
-  {
-    path: '/OneZero_website/build/en/__docusaurus/debug/globalData',
-    component: ComponentCreator('/OneZero_website/build/en/__docusaurus/debug/globalData', 'c57'),
-    exact: true
-  },
-  {
-    path: '/OneZero_website/build/en/__docusaurus/debug/metadata',
-    component: ComponentCreator('/OneZero_website/build/en/__docusaurus/debug/metadata', 'f42'),
-    exact: true
-  },
-  {
-    path: '/OneZero_website/build/en/__docusaurus/debug/registry',
-    component: ComponentCreator('/OneZero_website/build/en/__docusaurus/debug/registry', 'd3c'),
-    exact: true
-  },
-  {
-    path: '/OneZero_website/build/en/__docusaurus/debug/routes',
-    component: ComponentCreator('/OneZero_website/build/en/__docusaurus/debug/routes', 'd76'),
-    exact: true
-  },
-  {
     path: '/OneZero_website/build/en/blog',
     component: ComponentCreator('/OneZero_website/build/en/blog', 'f66'),
     exact: true
@@ -109,11 +74,65 @@ export default [
   },
   {
     path: '/OneZero_website/build/en/docs',
-    component: ComponentCreator('/OneZero_website/build/en/docs', '8ec'),
+    component: ComponentCreator('/OneZero_website/build/en/docs', 'd91'),
     routes: [
       {
-        path: '/OneZero_website/build/en/docs/category/troubleshooting',
-        component: ComponentCreator('/OneZero_website/build/en/docs/category/troubleshooting', 'b45'),
+        path: '/OneZero_website/build/en/docs/사용법/tutorial-basics/congratulations',
+        component: ComponentCreator('/OneZero_website/build/en/docs/사용법/tutorial-basics/congratulations', '28c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/OneZero_website/build/en/docs/사용법/tutorial-basics/create-a-blog-post',
+        component: ComponentCreator('/OneZero_website/build/en/docs/사용법/tutorial-basics/create-a-blog-post', '683'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/OneZero_website/build/en/docs/사용법/tutorial-basics/create-a-document',
+        component: ComponentCreator('/OneZero_website/build/en/docs/사용법/tutorial-basics/create-a-document', 'aa6'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/OneZero_website/build/en/docs/사용법/tutorial-basics/create-a-page',
+        component: ComponentCreator('/OneZero_website/build/en/docs/사용법/tutorial-basics/create-a-page', '577'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/OneZero_website/build/en/docs/사용법/tutorial-basics/deploy-your-site',
+        component: ComponentCreator('/OneZero_website/build/en/docs/사용법/tutorial-basics/deploy-your-site', 'a4f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/OneZero_website/build/en/docs/사용법/tutorial-basics/markdown-features',
+        component: ComponentCreator('/OneZero_website/build/en/docs/사용법/tutorial-basics/markdown-features', '310'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/OneZero_website/build/en/docs/사용법/tutorial-extras/manage-docs-versions',
+        component: ComponentCreator('/OneZero_website/build/en/docs/사용법/tutorial-extras/manage-docs-versions', '33d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/OneZero_website/build/en/docs/사용법/tutorial-extras/translate-your-site',
+        component: ComponentCreator('/OneZero_website/build/en/docs/사용법/tutorial-extras/translate-your-site', '14e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/OneZero_website/build/en/docs/학교 과정/testTXT',
+        component: ComponentCreator('/OneZero_website/build/en/docs/학교 과정/testTXT', '1a0'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/OneZero_website/build/en/docs/category/문제-해결',
+        component: ComponentCreator('/OneZero_website/build/en/docs/category/문제-해결', '3b2'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -130,74 +149,20 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/congratulations',
-        component: ComponentCreator('/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/congratulations', '7ba'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/create-a-blog-post', '8ae'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/create-a-document',
-        component: ComponentCreator('/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/create-a-document', '4ea'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/create-a-page',
-        component: ComponentCreator('/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/create-a-page', 'b63'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/deploy-your-site', '8ed'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/markdown-features',
-        component: ComponentCreator('/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/markdown-features', '5ec'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/OneZero_website/build/en/docs/HOW To Use/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/OneZero_website/build/en/docs/HOW To Use/tutorial-extras/manage-docs-versions', '3da'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/OneZero_website/build/en/docs/HOW To Use/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/OneZero_website/build/en/docs/HOW To Use/tutorial-extras/translate-your-site', 'd64'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
         path: '/OneZero_website/build/en/docs/intro',
         component: ComponentCreator('/OneZero_website/build/en/docs/intro', '5b6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/OneZero_website/build/en/docs/School Lecture/testTXT',
-        component: ComponentCreator('/OneZero_website/build/en/docs/School Lecture/testTXT', 'dec'),
+        path: '/OneZero_website/build/en/docs/Troubleshooting/test',
+        component: ComponentCreator('/OneZero_website/build/en/docs/Troubleshooting/test', '59b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/OneZero_website/build/en/docs/Trouble Shooting/test',
-        component: ComponentCreator('/OneZero_website/build/en/docs/Trouble Shooting/test', 'b67'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/OneZero_website/build/en/docs/Trouble Shooting/testDoc/test',
-        component: ComponentCreator('/OneZero_website/build/en/docs/Trouble Shooting/testDoc/test', 'bba'),
+        path: '/OneZero_website/build/en/docs/Troubleshooting/testDoc/test',
+        component: ComponentCreator('/OneZero_website/build/en/docs/Troubleshooting/testDoc/test', '334'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

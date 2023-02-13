@@ -5,11 +5,11 @@
   "navigation": {
     "previous": {
       "title": "Congratulations!",
-      "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/congratulations"
+      "permalink": "/OneZero_website/build/en/docs/사용법/tutorial-basics/congratulations"
     },
     "next": {
       "title": "Manage Docs Versions",
-      "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-extras/manage-docs-versions"
+      "permalink": "/OneZero_website/build/en/docs/사용법/tutorial-extras/manage-docs-versions"
     }
   }
 }

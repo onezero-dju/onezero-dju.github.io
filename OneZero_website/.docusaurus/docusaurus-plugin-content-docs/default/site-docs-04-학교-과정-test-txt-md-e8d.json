@@ -1,0 +1,20 @@
+{
+  "unversionedId": "학교 과정/testTXT",
+  "id": "학교 과정/testTXT",
+  "title": "testTXT",
+  "description": "",
+  "source": "@site/docs/04-학교 과정/testTXT.md",
+  "sourceDirName": "04-학교 과정",
+  "slug": "/학교 과정/testTXT",
+  "permalink": "/OneZero_website/build/en/docs/학교 과정/testTXT",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/04-학교 과정/testTXT.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Test",
+    "permalink": "/OneZero_website/build/en/docs/Troubleshooting/test"
+  }
+}

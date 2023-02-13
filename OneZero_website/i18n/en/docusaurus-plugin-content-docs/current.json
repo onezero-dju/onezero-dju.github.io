@@ -3,9 +3,9 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.HOW To Use": {
+  "sidebar.tutorialSidebar.category.사용법": {
     "message": "HOW To Use",
-    "description": "The label for category HOW To Use in sidebar tutorialSidebar"
+    "description": "The label for category 사용법 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Tutorial - Basics": {
     "message": "Tutorial - Basics",
@@ -70,5 +70,17 @@
   "sidebar.tutorialSidebar.category.School Lecture": {
     "message": "School Lecture",
     "description": "The label for category School Lecture in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.문제 해결": {
+    "message": "Troubleshooting",
+    "description": "The label for category 문제 해결 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.문제 해결.link.generated-index.description": {
+    "message": "'Troubleshooting'은 '문제 해결'을 뜻합니다. 여기서는 개발과정에서 직면할 수 있는 다양한 문제의 해결 방법을 설명합니다.",
+    "description": "The generated-index page description for category 문제 해결 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.학교 과정": {
+    "message": "학교 과정",
+    "description": "The label for category 학교 과정 in sidebar tutorialSidebar"
   }
 }

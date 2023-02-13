@@ -11,43 +11,48 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "HOW To Use/tutorial-basics/congratulations",
-              "path": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/congratulations",
+              "id": "사용법/tutorial-basics/congratulations",
+              "path": "/OneZero_website/build/en/docs/사용법/tutorial-basics/congratulations",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "HOW To Use/tutorial-basics/create-a-blog-post",
-              "path": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/create-a-blog-post",
+              "id": "사용법/tutorial-basics/create-a-blog-post",
+              "path": "/OneZero_website/build/en/docs/사용법/tutorial-basics/create-a-blog-post",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "HOW To Use/tutorial-basics/create-a-document",
-              "path": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/create-a-document",
+              "id": "사용법/tutorial-basics/create-a-document",
+              "path": "/OneZero_website/build/en/docs/사용법/tutorial-basics/create-a-document",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "HOW To Use/tutorial-basics/create-a-page",
-              "path": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/create-a-page",
+              "id": "사용법/tutorial-basics/create-a-page",
+              "path": "/OneZero_website/build/en/docs/사용법/tutorial-basics/create-a-page",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "HOW To Use/tutorial-basics/deploy-your-site",
-              "path": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/deploy-your-site",
+              "id": "사용법/tutorial-basics/deploy-your-site",
+              "path": "/OneZero_website/build/en/docs/사용법/tutorial-basics/deploy-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "HOW To Use/tutorial-basics/markdown-features",
-              "path": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/markdown-features",
+              "id": "사용법/tutorial-basics/markdown-features",
+              "path": "/OneZero_website/build/en/docs/사용법/tutorial-basics/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "HOW To Use/tutorial-extras/manage-docs-versions",
-              "path": "/OneZero_website/build/en/docs/HOW To Use/tutorial-extras/manage-docs-versions",
+              "id": "사용법/tutorial-extras/manage-docs-versions",
+              "path": "/OneZero_website/build/en/docs/사용법/tutorial-extras/manage-docs-versions",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "HOW To Use/tutorial-extras/translate-your-site",
-              "path": "/OneZero_website/build/en/docs/HOW To Use/tutorial-extras/translate-your-site",
+              "id": "사용법/tutorial-extras/translate-your-site",
+              "path": "/OneZero_website/build/en/docs/사용법/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "학교 과정/testTXT",
+              "path": "/OneZero_website/build/en/docs/학교 과정/testTXT",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -56,18 +61,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "School Lecture/testTXT",
-              "path": "/OneZero_website/build/en/docs/School Lecture/testTXT",
+              "id": "Troubleshooting/test",
+              "path": "/OneZero_website/build/en/docs/Troubleshooting/test",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Trouble Shooting/test",
-              "path": "/OneZero_website/build/en/docs/Trouble Shooting/test",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Trouble Shooting/testDoc/test",
-              "path": "/OneZero_website/build/en/docs/Trouble Shooting/testDoc/test",
+              "id": "Troubleshooting/testDoc/test",
+              "path": "/OneZero_website/build/en/docs/Troubleshooting/testDoc/test",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -106,8 +106,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/troubleshooting",
-              "path": "/OneZero_website/build/en/docs/category/troubleshooting",
+              "id": "/category/문제-해결",
+              "path": "/OneZero_website/build/en/docs/category/문제-해결",
               "sidebar": "tutorialSidebar"
             }
           ],

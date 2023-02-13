@@ -1,0 +1,16 @@
+{
+  "title": "Troubleshooting",
+  "description": "'Troubleshooting'은 '문제 해결'을 뜻합니다. 여기서는 개발과정에서 직면할 수 있는 다양한 문제의 해결 방법을 설명합니다.",
+  "slug": "/category/troubleshooting-1",
+  "permalink": "/OneZero_website/build/docs/category/troubleshooting-1",
+  "navigation": {
+    "previous": {
+      "title": "testTXT",
+      "permalink": "/OneZero_website/build/docs/School Lecture/testTXT"
+    },
+    "next": {
+      "title": "Test",
+      "permalink": "/OneZero_website/build/docs/문제 해결 copy/testDoc/test"
+    }
+  }
+}

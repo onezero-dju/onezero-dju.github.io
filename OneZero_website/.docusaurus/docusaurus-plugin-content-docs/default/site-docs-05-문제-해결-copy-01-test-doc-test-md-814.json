@@ -1,0 +1,27 @@
+{
+  "unversionedId": "문제 해결 copy/testDoc/test",
+  "id": "문제 해결 copy/testDoc/test",
+  "title": "Test",
+  "description": "This is a test page",
+  "source": "@site/docs/05-문제 해결 copy/01-testDoc/test.md",
+  "sourceDirName": "05-문제 해결 copy/01-testDoc",
+  "slug": "/문제 해결 copy/testDoc/test",
+  "permalink": "/OneZero_website/build/docs/문제 해결 copy/testDoc/test",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/05-문제 해결 copy/01-testDoc/test.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Troubleshooting",
+    "permalink": "/OneZero_website/build/docs/category/troubleshooting"
+  },
+  "next": {
+    "title": "Test",
+    "permalink": "/OneZero_website/build/docs/문제 해결 copy/test"
+  }
+}
