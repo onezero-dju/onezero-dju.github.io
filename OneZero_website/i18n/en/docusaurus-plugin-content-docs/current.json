@@ -1,0 +1,74 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.HOW To Use": {
+    "message": "HOW To Use",
+    "description": "The label for category HOW To Use in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
+    "message": "Tutorial - Basics",
+    "description": "The label for category Tutorial - Basics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Tutorial - Basics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
+    "message": "Tutorial - Extras",
+    "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Wiki": {
+    "message": "Wiki",
+    "description": "The label for category Wiki in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Web": {
+    "message": "Web",
+    "description": "The label for category Web in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.JavaScript": {
+    "message": "JavaScript",
+    "description": "The label for category JavaScript in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.React": {
+    "message": "React",
+    "description": "The label for category React in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.App": {
+    "message": "App",
+    "description": "The label for category App in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Flutter": {
+    "message": "Flutter",
+    "description": "The label for category Flutter in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.React Native": {
+    "message": "React Native",
+    "description": "The label for category React Native in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Dev Env": {
+    "message": "Dev Env",
+    "description": "The label for category Dev Env in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Powershell": {
+    "message": "Powershell",
+    "description": "The label for category Powershell in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Troubleshooting": {
+    "message": "Troubleshooting",
+    "description": "The label for category Troubleshooting in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Troubleshooting.link.generated-index.description": {
+    "message": "'Troubleshooting'은 '문제 해결'을 뜻합니다. 여기서는 개발과정에서 직면할 수 있는 다양한 문제의 해결 방법을 설명합니다.",
+    "description": "The generated-index page description for category Troubleshooting in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.testDoc": {
+    "message": "testDoc",
+    "description": "The label for category testDoc in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.School Lecture": {
+    "message": "School Lecture",
+    "description": "The label for category School Lecture in sidebar tutorialSidebar"
+  }
+}

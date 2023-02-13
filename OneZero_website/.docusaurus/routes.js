@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/OneZero_website/build/en/__docusaurus/debug',
+    component: ComponentCreator('/OneZero_website/build/en/__docusaurus/debug', '966'),
+    exact: true
+  },
+  {
+    path: '/OneZero_website/build/en/__docusaurus/debug/config',
+    component: ComponentCreator('/OneZero_website/build/en/__docusaurus/debug/config', '79f'),
+    exact: true
+  },
+  {
+    path: '/OneZero_website/build/en/__docusaurus/debug/content',
+    component: ComponentCreator('/OneZero_website/build/en/__docusaurus/debug/content', '01b'),
+    exact: true
+  },
+  {
+    path: '/OneZero_website/build/en/__docusaurus/debug/globalData',
+    component: ComponentCreator('/OneZero_website/build/en/__docusaurus/debug/globalData', 'c57'),
+    exact: true
+  },
+  {
+    path: '/OneZero_website/build/en/__docusaurus/debug/metadata',
+    component: ComponentCreator('/OneZero_website/build/en/__docusaurus/debug/metadata', 'f42'),
+    exact: true
+  },
+  {
+    path: '/OneZero_website/build/en/__docusaurus/debug/registry',
+    component: ComponentCreator('/OneZero_website/build/en/__docusaurus/debug/registry', 'd3c'),
+    exact: true
+  },
+  {
+    path: '/OneZero_website/build/en/__docusaurus/debug/routes',
+    component: ComponentCreator('/OneZero_website/build/en/__docusaurus/debug/routes', 'd76'),
+    exact: true
+  },
+  {
     path: '/OneZero_website/build/en/blog',
     component: ComponentCreator('/OneZero_website/build/en/blog', 'f66'),
     exact: true
