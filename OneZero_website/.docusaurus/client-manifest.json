@@ -249,9 +249,9 @@
     "53": {
       "js": [
         {
-          "file": "assets/js/935f2afb.5300f17b.js",
-          "hash": "fb0a61e14e8fbda1",
-          "publicPath": "/OneZero_website/build/en/assets/js/935f2afb.5300f17b.js"
+          "file": "assets/js/935f2afb.53ea69f6.js",
+          "hash": "1677bd4928df05c6",
+          "publicPath": "/OneZero_website/build/en/assets/js/935f2afb.53ea69f6.js"
         }
       ]
     },
@@ -330,9 +330,9 @@
     "1303": {
       "js": [
         {
-          "file": "assets/js/runtime~main.b270861d.js",
-          "hash": "9ba12c2f4703cbc0",
-          "publicPath": "/OneZero_website/build/en/assets/js/runtime~main.b270861d.js"
+          "file": "assets/js/runtime~main.b683d91c.js",
+          "hash": "797667e388916257",
+          "publicPath": "/OneZero_website/build/en/assets/js/runtime~main.b683d91c.js"
         }
       ]
     },

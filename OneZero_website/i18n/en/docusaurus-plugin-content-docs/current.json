@@ -80,7 +80,7 @@
     "description": "The generated-index page description for category 문제 해결 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.학교 과정": {
-    "message": "학교 과정",
+    "message": "School Lecture",
     "description": "The label for category 학교 과정 in sidebar tutorialSidebar"
   }
 }

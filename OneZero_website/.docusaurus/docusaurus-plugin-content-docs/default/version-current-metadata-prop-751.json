@@ -222,7 +222,7 @@
       },
       {
         "type": "category",
-        "label": "학교 과정",
+        "label": "School Lecture",
         "collapsible": true,
         "collapsed": true,
         "items": [
