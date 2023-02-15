@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Wiki/Web/JavaScript/testTXT",
+  "id": "Wiki/Web/JavaScript/testTXT",
+  "title": "testTXT",
+  "description": "",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/02-Wiki/01-Web/JavaScript/testTXT.md",
+  "sourceDirName": "02-Wiki/01-Web/JavaScript",
+  "slug": "/Wiki/Web/JavaScript/testTXT",
+  "permalink": "/OneZero_website/build/en/docs/Wiki/Web/JavaScript/testTXT",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-Wiki/01-Web/JavaScript/testTXT.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/OneZero_website/build/en/docs/사용법/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "testTXT",
+    "permalink": "/OneZero_website/build/en/docs/Wiki/Web/React/testTXT"
+  }
+}

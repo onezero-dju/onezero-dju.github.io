@@ -6,7 +6,7 @@
   "source": "@site/docs/03-Troubleshooting/test.md",
   "sourceDirName": "03-Troubleshooting",
   "slug": "/Troubleshooting/test",
-  "permalink": "/OneZero_website/build/en/docs/Troubleshooting/test",
+  "permalink": "/OneZero_website/build/docs/Troubleshooting/test",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/03-Troubleshooting/test.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Test",
-    "permalink": "/OneZero_website/build/en/docs/Troubleshooting/testDoc/test"
+    "permalink": "/OneZero_website/build/docs/Troubleshooting/testDoc/test"
   },
   "next": {
     "title": "testTXT",
-    "permalink": "/OneZero_website/build/en/docs/학교 과정/testTXT"
+    "permalink": "/OneZero_website/build/docs/학교 과정/testTXT"
   }
 }

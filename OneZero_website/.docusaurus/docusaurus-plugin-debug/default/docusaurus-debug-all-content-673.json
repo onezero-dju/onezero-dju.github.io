@@ -9,81 +9,27 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/OneZero_website/build/en/docs",
-          "tagsPath": "/OneZero_website/build/en/docs/tags",
+          "path": "/OneZero_website/build/docs",
+          "tagsPath": "/OneZero_website/build/docs/tags",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
-          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/ko/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "C:\\Users\\양기택\\Documents\\_Projects\\OneZero homepage\\OneZero_website\\sidebars.js",
           "contentPath": "C:\\Users\\양기택\\Documents\\_Projects\\OneZero homepage\\OneZero_website\\docs",
-          "contentPathLocalized": "C:\\Users\\양기택\\Documents\\_Projects\\OneZero homepage\\OneZero_website\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "contentPathLocalized": "C:\\Users\\양기택\\Documents\\_Projects\\OneZero homepage\\OneZero_website\\i18n\\ko\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
-              "unversionedId": "문제 해결/test",
-              "id": "문제 해결/test",
-              "title": "Test",
-              "description": "This is a test page",
-              "source": "@site/docs/03-문제 해결/test.md",
-              "sourceDirName": "03-문제 해결",
-              "slug": "/문제 해결/test",
-              "permalink": "/OneZero_website/build/en/docs/문제 해결/test",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/03-문제 해결/test.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Test",
-                "permalink": "/OneZero_website/build/en/docs/문제 해결/testDoc/test"
-              },
-              "next": {
-                "title": "testTXT",
-                "permalink": "/OneZero_website/build/en/docs/School Lecture/testTXT"
-              }
-            },
-            {
-              "unversionedId": "문제 해결/testDoc/test",
-              "id": "문제 해결/testDoc/test",
-              "title": "Test",
-              "description": "This is a test page",
-              "source": "@site/docs/03-문제 해결/01-testDoc/test.md",
-              "sourceDirName": "03-문제 해결/01-testDoc",
-              "slug": "/문제 해결/testDoc/test",
-              "permalink": "/OneZero_website/build/en/docs/문제 해결/testDoc/test",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/03-문제 해결/01-testDoc/test.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "문제 해결",
-                "permalink": "/OneZero_website/build/en/docs/category/문제-해결"
-              },
-              "next": {
-                "title": "Test",
-                "permalink": "/OneZero_website/build/en/docs/문제 해결/test"
-              }
-            },
-            {
-              "unversionedId": "HOW To Use/tutorial-basics/congratulations",
-              "id": "HOW To Use/tutorial-basics/congratulations",
-              "title": "Congratulations!",
+              "unversionedId": "사용법/tutorial-basics/congratulations",
+              "id": "사용법/tutorial-basics/congratulations",
+              "title": "축하합니다!",
               "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-              "source": "@site/docs/01-HOW To Use/tutorial-basics/congratulations.md",
-              "sourceDirName": "01-HOW To Use/tutorial-basics",
-              "slug": "/HOW To Use/tutorial-basics/congratulations",
-              "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/congratulations",
+              "source": "@site/docs/01-사용법/tutorial-basics/congratulations.md",
+              "sourceDirName": "01-사용법/tutorial-basics",
+              "slug": "/사용법/tutorial-basics/congratulations",
+              "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/congratulations",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-HOW To Use/tutorial-basics/congratulations.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-사용법/tutorial-basics/congratulations.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -93,24 +39,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Deploy your site",
-                "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/deploy-your-site"
+                "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/deploy-your-site"
               },
               "next": {
                 "title": "Tutorial - Extras",
-                "permalink": "/OneZero_website/build/en/docs/category/tutorial---extras"
+                "permalink": "/OneZero_website/build/docs/category/tutorial---extras"
               }
             },
             {
-              "unversionedId": "HOW To Use/tutorial-basics/create-a-blog-post",
-              "id": "HOW To Use/tutorial-basics/create-a-blog-post",
+              "unversionedId": "사용법/tutorial-basics/create-a-blog-post",
+              "id": "사용법/tutorial-basics/create-a-blog-post",
               "title": "Create a Blog Post",
               "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/01-HOW To Use/tutorial-basics/create-a-blog-post.md",
-              "sourceDirName": "01-HOW To Use/tutorial-basics",
-              "slug": "/HOW To Use/tutorial-basics/create-a-blog-post",
-              "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/create-a-blog-post",
+              "source": "@site/docs/01-사용법/tutorial-basics/create-a-blog-post.md",
+              "sourceDirName": "01-사용법/tutorial-basics",
+              "slug": "/사용법/tutorial-basics/create-a-blog-post",
+              "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/create-a-blog-post",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-HOW To Use/tutorial-basics/create-a-blog-post.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-사용법/tutorial-basics/create-a-blog-post.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -120,24 +66,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Document",
-                "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/create-a-document"
+                "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/create-a-document"
               },
               "next": {
                 "title": "Markdown Features",
-                "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/markdown-features"
+                "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/markdown-features"
               }
             },
             {
-              "unversionedId": "HOW To Use/tutorial-basics/create-a-document",
-              "id": "HOW To Use/tutorial-basics/create-a-document",
+              "unversionedId": "사용법/tutorial-basics/create-a-document",
+              "id": "사용법/tutorial-basics/create-a-document",
               "title": "Create a Document",
               "description": "Documents are groups of pages connected through:",
-              "source": "@site/docs/01-HOW To Use/tutorial-basics/create-a-document.md",
-              "sourceDirName": "01-HOW To Use/tutorial-basics",
-              "slug": "/HOW To Use/tutorial-basics/create-a-document",
-              "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/create-a-document",
+              "source": "@site/docs/01-사용법/tutorial-basics/create-a-document.md",
+              "sourceDirName": "01-사용법/tutorial-basics",
+              "slug": "/사용법/tutorial-basics/create-a-document",
+              "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/create-a-document",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-HOW To Use/tutorial-basics/create-a-document.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-사용법/tutorial-basics/create-a-document.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -147,24 +93,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Page",
-                "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/create-a-page"
+                "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/create-a-page"
               },
               "next": {
                 "title": "Create a Blog Post",
-                "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/create-a-blog-post"
+                "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/create-a-blog-post"
               }
             },
             {
-              "unversionedId": "HOW To Use/tutorial-basics/create-a-page",
-              "id": "HOW To Use/tutorial-basics/create-a-page",
+              "unversionedId": "사용법/tutorial-basics/create-a-page",
+              "id": "사용법/tutorial-basics/create-a-page",
               "title": "Create a Page",
               "description": "Add Markdown or React files to src/pages to create a standalone page:",
-              "source": "@site/docs/01-HOW To Use/tutorial-basics/create-a-page.md",
-              "sourceDirName": "01-HOW To Use/tutorial-basics",
-              "slug": "/HOW To Use/tutorial-basics/create-a-page",
-              "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/create-a-page",
+              "source": "@site/docs/01-사용법/tutorial-basics/create-a-page.md",
+              "sourceDirName": "01-사용법/tutorial-basics",
+              "slug": "/사용법/tutorial-basics/create-a-page",
+              "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/create-a-page",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-HOW To Use/tutorial-basics/create-a-page.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-사용법/tutorial-basics/create-a-page.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -174,24 +120,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Tutorial - Basics",
-                "permalink": "/OneZero_website/build/en/docs/category/tutorial---basics"
+                "permalink": "/OneZero_website/build/docs/category/tutorial---basics"
               },
               "next": {
                 "title": "Create a Document",
-                "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/create-a-document"
+                "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/create-a-document"
               }
             },
             {
-              "unversionedId": "HOW To Use/tutorial-basics/deploy-your-site",
-              "id": "HOW To Use/tutorial-basics/deploy-your-site",
+              "unversionedId": "사용법/tutorial-basics/deploy-your-site",
+              "id": "사용법/tutorial-basics/deploy-your-site",
               "title": "Deploy your site",
               "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-              "source": "@site/docs/01-HOW To Use/tutorial-basics/deploy-your-site.md",
-              "sourceDirName": "01-HOW To Use/tutorial-basics",
-              "slug": "/HOW To Use/tutorial-basics/deploy-your-site",
-              "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/deploy-your-site",
+              "source": "@site/docs/01-사용법/tutorial-basics/deploy-your-site.md",
+              "sourceDirName": "01-사용법/tutorial-basics",
+              "slug": "/사용법/tutorial-basics/deploy-your-site",
+              "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/deploy-your-site",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-HOW To Use/tutorial-basics/deploy-your-site.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-사용법/tutorial-basics/deploy-your-site.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -201,24 +147,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Markdown Features",
-                "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/markdown-features"
+                "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/markdown-features"
               },
               "next": {
-                "title": "Congratulations!",
-                "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/congratulations"
+                "title": "축하합니다!",
+                "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/congratulations"
               }
             },
             {
-              "unversionedId": "HOW To Use/tutorial-basics/markdown-features",
-              "id": "HOW To Use/tutorial-basics/markdown-features",
+              "unversionedId": "사용법/tutorial-basics/markdown-features",
+              "id": "사용법/tutorial-basics/markdown-features",
               "title": "Markdown Features",
               "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/docs/01-HOW To Use/tutorial-basics/markdown-features.mdx",
-              "sourceDirName": "01-HOW To Use/tutorial-basics",
-              "slug": "/HOW To Use/tutorial-basics/markdown-features",
-              "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/markdown-features",
+              "source": "@site/docs/01-사용법/tutorial-basics/markdown-features.mdx",
+              "sourceDirName": "01-사용법/tutorial-basics",
+              "slug": "/사용법/tutorial-basics/markdown-features",
+              "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/markdown-features",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-HOW To Use/tutorial-basics/markdown-features.mdx",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-사용법/tutorial-basics/markdown-features.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -228,24 +174,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Blog Post",
-                "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/create-a-blog-post"
+                "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/create-a-blog-post"
               },
               "next": {
                 "title": "Deploy your site",
-                "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-basics/deploy-your-site"
+                "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/deploy-your-site"
               }
             },
             {
-              "unversionedId": "HOW To Use/tutorial-extras/manage-docs-versions",
-              "id": "HOW To Use/tutorial-extras/manage-docs-versions",
+              "unversionedId": "사용법/tutorial-extras/manage-docs-versions",
+              "id": "사용법/tutorial-extras/manage-docs-versions",
               "title": "Manage Docs Versions",
               "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/01-HOW To Use/tutorial-extras/manage-docs-versions.md",
-              "sourceDirName": "01-HOW To Use/tutorial-extras",
-              "slug": "/HOW To Use/tutorial-extras/manage-docs-versions",
-              "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-extras/manage-docs-versions",
+              "source": "@site/docs/01-사용법/tutorial-extras/manage-docs-versions.md",
+              "sourceDirName": "01-사용법/tutorial-extras",
+              "slug": "/사용법/tutorial-extras/manage-docs-versions",
+              "permalink": "/OneZero_website/build/docs/사용법/tutorial-extras/manage-docs-versions",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-HOW To Use/tutorial-extras/manage-docs-versions.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-사용법/tutorial-extras/manage-docs-versions.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -255,24 +201,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Tutorial - Extras",
-                "permalink": "/OneZero_website/build/en/docs/category/tutorial---extras"
+                "permalink": "/OneZero_website/build/docs/category/tutorial---extras"
               },
               "next": {
                 "title": "Translate your site",
-                "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-extras/translate-your-site"
+                "permalink": "/OneZero_website/build/docs/사용법/tutorial-extras/translate-your-site"
               }
             },
             {
-              "unversionedId": "HOW To Use/tutorial-extras/translate-your-site",
-              "id": "HOW To Use/tutorial-extras/translate-your-site",
+              "unversionedId": "사용법/tutorial-extras/translate-your-site",
+              "id": "사용법/tutorial-extras/translate-your-site",
               "title": "Translate your site",
               "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/01-HOW To Use/tutorial-extras/translate-your-site.md",
-              "sourceDirName": "01-HOW To Use/tutorial-extras",
-              "slug": "/HOW To Use/tutorial-extras/translate-your-site",
-              "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-extras/translate-your-site",
+              "source": "@site/docs/01-사용법/tutorial-extras/translate-your-site.md",
+              "sourceDirName": "01-사용법/tutorial-extras",
+              "slug": "/사용법/tutorial-extras/translate-your-site",
+              "permalink": "/OneZero_website/build/docs/사용법/tutorial-extras/translate-your-site",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-HOW To Use/tutorial-extras/translate-your-site.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-사용법/tutorial-extras/translate-your-site.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -282,11 +228,31 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Manage Docs Versions",
-                "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-extras/manage-docs-versions"
+                "permalink": "/OneZero_website/build/docs/사용법/tutorial-extras/manage-docs-versions"
               },
               "next": {
                 "title": "testTXT",
-                "permalink": "/OneZero_website/build/en/docs/Wiki/Web/JavaScript/testTXT"
+                "permalink": "/OneZero_website/build/docs/Wiki/Web/JavaScript/testTXT"
+              }
+            },
+            {
+              "unversionedId": "학교 과정/testTXT",
+              "id": "학교 과정/testTXT",
+              "title": "testTXT",
+              "description": "",
+              "source": "@site/docs/04-학교 과정/testTXT.md",
+              "sourceDirName": "04-학교 과정",
+              "slug": "/학교 과정/testTXT",
+              "permalink": "/OneZero_website/build/docs/학교 과정/testTXT",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/04-학교 과정/testTXT.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Test",
+                "permalink": "/OneZero_website/build/docs/Troubleshooting/test"
               }
             },
             {
@@ -297,7 +263,7 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/OneZero_website/build/en/docs/intro",
+              "permalink": "/OneZero_website/build/docs/intro",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
               "tags": [],
@@ -309,27 +275,61 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Tutorial - Basics",
-                "permalink": "/OneZero_website/build/en/docs/category/tutorial---basics"
+                "permalink": "/OneZero_website/build/docs/category/tutorial---basics"
               }
             },
             {
-              "unversionedId": "School Lecture/testTXT",
-              "id": "School Lecture/testTXT",
-              "title": "testTXT",
-              "description": "",
-              "source": "@site/docs/04-School Lecture/testTXT.md",
-              "sourceDirName": "04-School Lecture",
-              "slug": "/School Lecture/testTXT",
-              "permalink": "/OneZero_website/build/en/docs/School Lecture/testTXT",
+              "unversionedId": "Troubleshooting/test",
+              "id": "Troubleshooting/test",
+              "title": "Test",
+              "description": "This is a test page",
+              "source": "@site/docs/03-Troubleshooting/test.md",
+              "sourceDirName": "03-Troubleshooting",
+              "slug": "/Troubleshooting/test",
+              "permalink": "/OneZero_website/build/docs/Troubleshooting/test",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/04-School Lecture/testTXT.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/03-Troubleshooting/test.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Test",
-                "permalink": "/OneZero_website/build/en/docs/문제 해결/test"
+                "permalink": "/OneZero_website/build/docs/Troubleshooting/testDoc/test"
+              },
+              "next": {
+                "title": "testTXT",
+                "permalink": "/OneZero_website/build/docs/학교 과정/testTXT"
+              }
+            },
+            {
+              "unversionedId": "Troubleshooting/testDoc/test",
+              "id": "Troubleshooting/testDoc/test",
+              "title": "Test",
+              "description": "This is a test page",
+              "source": "@site/docs/03-Troubleshooting/01-testDoc/test.md",
+              "sourceDirName": "03-Troubleshooting/01-testDoc",
+              "slug": "/Troubleshooting/testDoc/test",
+              "permalink": "/OneZero_website/build/docs/Troubleshooting/testDoc/test",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/03-Troubleshooting/01-testDoc/test.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "문제 해결",
+                "permalink": "/OneZero_website/build/docs/category/문제-해결"
+              },
+              "next": {
+                "title": "Test",
+                "permalink": "/OneZero_website/build/docs/Troubleshooting/test"
               }
             },
             {
@@ -340,7 +340,7 @@
               "source": "@site/docs/02-Wiki/02-App/Flutter/testTXT.md",
               "sourceDirName": "02-Wiki/02-App/Flutter",
               "slug": "/Wiki/App/Flutter/testTXT",
-              "permalink": "/OneZero_website/build/en/docs/Wiki/App/Flutter/testTXT",
+              "permalink": "/OneZero_website/build/docs/Wiki/App/Flutter/testTXT",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-Wiki/02-App/Flutter/testTXT.md",
               "tags": [],
@@ -349,11 +349,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "testTXT",
-                "permalink": "/OneZero_website/build/en/docs/Wiki/Web/React/testTXT"
+                "permalink": "/OneZero_website/build/docs/Wiki/Web/React/testTXT"
               },
               "next": {
                 "title": "testTXT",
-                "permalink": "/OneZero_website/build/en/docs/Wiki/App/React Native/testTXT"
+                "permalink": "/OneZero_website/build/docs/Wiki/App/React Native/testTXT"
               }
             },
             {
@@ -364,7 +364,7 @@
               "source": "@site/docs/02-Wiki/02-App/React Native/testTXT.md",
               "sourceDirName": "02-Wiki/02-App/React Native",
               "slug": "/Wiki/App/React Native/testTXT",
-              "permalink": "/OneZero_website/build/en/docs/Wiki/App/React Native/testTXT",
+              "permalink": "/OneZero_website/build/docs/Wiki/App/React Native/testTXT",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-Wiki/02-App/React Native/testTXT.md",
               "tags": [],
@@ -373,11 +373,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "testTXT",
-                "permalink": "/OneZero_website/build/en/docs/Wiki/App/Flutter/testTXT"
+                "permalink": "/OneZero_website/build/docs/Wiki/App/Flutter/testTXT"
               },
               "next": {
                 "title": "testTXT",
-                "permalink": "/OneZero_website/build/en/docs/Wiki/Dev Env/Powershell/testTXT"
+                "permalink": "/OneZero_website/build/docs/Wiki/Dev Env/Powershell/testTXT"
               }
             },
             {
@@ -388,7 +388,7 @@
               "source": "@site/docs/02-Wiki/Dev Env/Powershell/testTXT.md",
               "sourceDirName": "02-Wiki/Dev Env/Powershell",
               "slug": "/Wiki/Dev Env/Powershell/testTXT",
-              "permalink": "/OneZero_website/build/en/docs/Wiki/Dev Env/Powershell/testTXT",
+              "permalink": "/OneZero_website/build/docs/Wiki/Dev Env/Powershell/testTXT",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-Wiki/Dev Env/Powershell/testTXT.md",
               "tags": [],
@@ -397,11 +397,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "testTXT",
-                "permalink": "/OneZero_website/build/en/docs/Wiki/App/React Native/testTXT"
+                "permalink": "/OneZero_website/build/docs/Wiki/App/React Native/testTXT"
               },
               "next": {
                 "title": "문제 해결",
-                "permalink": "/OneZero_website/build/en/docs/category/문제-해결"
+                "permalink": "/OneZero_website/build/docs/category/문제-해결"
               }
             },
             {
@@ -412,7 +412,7 @@
               "source": "@site/docs/02-Wiki/01-Web/JavaScript/testTXT.md",
               "sourceDirName": "02-Wiki/01-Web/JavaScript",
               "slug": "/Wiki/Web/JavaScript/testTXT",
-              "permalink": "/OneZero_website/build/en/docs/Wiki/Web/JavaScript/testTXT",
+              "permalink": "/OneZero_website/build/docs/Wiki/Web/JavaScript/testTXT",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-Wiki/01-Web/JavaScript/testTXT.md",
               "tags": [],
@@ -421,11 +421,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Translate your site",
-                "permalink": "/OneZero_website/build/en/docs/HOW To Use/tutorial-extras/translate-your-site"
+                "permalink": "/OneZero_website/build/docs/사용법/tutorial-extras/translate-your-site"
               },
               "next": {
                 "title": "testTXT",
-                "permalink": "/OneZero_website/build/en/docs/Wiki/Web/React/testTXT"
+                "permalink": "/OneZero_website/build/docs/Wiki/Web/React/testTXT"
               }
             },
             {
@@ -436,7 +436,7 @@
               "source": "@site/docs/02-Wiki/01-Web/React/testTXT.md",
               "sourceDirName": "02-Wiki/01-Web/React",
               "slug": "/Wiki/Web/React/testTXT",
-              "permalink": "/OneZero_website/build/en/docs/Wiki/Web/React/testTXT",
+              "permalink": "/OneZero_website/build/docs/Wiki/Web/React/testTXT",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-Wiki/01-Web/React/testTXT.md",
               "tags": [],
@@ -445,11 +445,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "testTXT",
-                "permalink": "/OneZero_website/build/en/docs/Wiki/Web/JavaScript/testTXT"
+                "permalink": "/OneZero_website/build/docs/Wiki/Web/JavaScript/testTXT"
               },
               "next": {
                 "title": "testTXT",
-                "permalink": "/OneZero_website/build/en/docs/Wiki/App/Flutter/testTXT"
+                "permalink": "/OneZero_website/build/docs/Wiki/App/Flutter/testTXT"
               }
             }
           ],
@@ -462,7 +462,7 @@
               },
               {
                 "type": "category",
-                "label": "HOW To Use",
+                "label": "사용법",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -474,34 +474,34 @@
                     "items": [
                       {
                         "type": "doc",
-                        "id": "HOW To Use/tutorial-basics/create-a-page"
+                        "id": "사용법/tutorial-basics/create-a-page"
                       },
                       {
                         "type": "doc",
-                        "id": "HOW To Use/tutorial-basics/create-a-document"
+                        "id": "사용법/tutorial-basics/create-a-document"
                       },
                       {
                         "type": "doc",
-                        "id": "HOW To Use/tutorial-basics/create-a-blog-post"
+                        "id": "사용법/tutorial-basics/create-a-blog-post"
                       },
                       {
                         "type": "doc",
-                        "id": "HOW To Use/tutorial-basics/markdown-features"
+                        "id": "사용법/tutorial-basics/markdown-features"
                       },
                       {
                         "type": "doc",
-                        "id": "HOW To Use/tutorial-basics/deploy-your-site"
+                        "id": "사용법/tutorial-basics/deploy-your-site"
                       },
                       {
                         "type": "doc",
-                        "id": "HOW To Use/tutorial-basics/congratulations"
+                        "id": "사용법/tutorial-basics/congratulations"
                       }
                     ],
                     "link": {
                       "type": "generated-index",
                       "description": "5 minutes to learn the most important Docusaurus concepts.",
                       "slug": "/category/tutorial---basics",
-                      "permalink": "/OneZero_website/build/en/docs/category/tutorial---basics"
+                      "permalink": "/OneZero_website/build/docs/category/tutorial---basics"
                     }
                   },
                   {
@@ -512,17 +512,17 @@
                     "items": [
                       {
                         "type": "doc",
-                        "id": "HOW To Use/tutorial-extras/manage-docs-versions"
+                        "id": "사용법/tutorial-extras/manage-docs-versions"
                       },
                       {
                         "type": "doc",
-                        "id": "HOW To Use/tutorial-extras/translate-your-site"
+                        "id": "사용법/tutorial-extras/translate-your-site"
                       }
                     ],
                     "link": {
                       "type": "generated-index",
                       "slug": "/category/tutorial---extras",
-                      "permalink": "/OneZero_website/build/en/docs/category/tutorial---extras"
+                      "permalink": "/OneZero_website/build/docs/category/tutorial---extras"
                     }
                   }
                 ]
@@ -621,7 +621,7 @@
               },
               {
                 "type": "category",
-                "label": "Troubleshooting",
+                "label": "문제 해결",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -633,31 +633,31 @@
                     "items": [
                       {
                         "type": "doc",
-                        "id": "문제 해결/testDoc/test"
+                        "id": "Troubleshooting/testDoc/test"
                       }
                     ]
                   },
                   {
                     "type": "doc",
-                    "id": "문제 해결/test"
+                    "id": "Troubleshooting/test"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
                   "description": "'Troubleshooting'은 '문제 해결'을 뜻합니다. 여기서는 개발과정에서 직면할 수 있는 다양한 문제의 해결 방법을 설명합니다.",
                   "slug": "/category/문제-해결",
-                  "permalink": "/OneZero_website/build/en/docs/category/문제-해결"
+                  "permalink": "/OneZero_website/build/docs/category/문제-해결"
                 }
               },
               {
                 "type": "category",
-                "label": "School Lecture",
+                "label": "학교 과정",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "School Lecture/testTXT"
+                    "id": "학교 과정/testTXT"
                   }
                 ]
               }
@@ -674,17 +674,17 @@
         {
           "id": "first post",
           "metadata": {
-            "permalink": "/OneZero_website/build/en/blog/first post",
+            "permalink": "/OneZero_website/build/blog/first post",
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2023-02-01-RealFirstPost.md",
             "source": "@site/blog/2023-02-01-RealFirstPost.md",
             "title": "첫 블로그 글",
             "description": "제작 사이트에서의 첫 글",
             "date": "2023-02-01T00:00:00.000Z",
-            "formattedDate": "February 1, 2023",
+            "formattedDate": "2023년 2월 1일",
             "tags": [
               {
                 "label": "greetings",
-                "permalink": "/OneZero_website/build/en/blog/tags/greetings"
+                "permalink": "/OneZero_website/build/blog/tags/greetings"
               }
             ],
             "readingTime": 0.225,
@@ -716,7 +716,7 @@
             },
             "nextItem": {
               "title": "Welcome",
-              "permalink": "/OneZero_website/build/en/blog/welcome"
+              "permalink": "/OneZero_website/build/blog/welcome"
             }
           },
           "content": "## 제작 사이트에서의 첫 글\r\n\r\n```mermaid\r\ngantt\r\n    title A Gantt Diagram\r\n    dateFormat  YYYY-MM-DD\r\n    section Section\r\n    A task           :a1, 2014-01-01, 30d\r\n    Another task     :after a1  , 20d\r\n    section Another\r\n    Task in sec      :2014-01-12  , 12d\r\n    another task      : 24d\r\n```"
@@ -724,25 +724,25 @@
         {
           "id": "welcome",
           "metadata": {
-            "permalink": "/OneZero_website/build/en/blog/welcome",
+            "permalink": "/OneZero_website/build/blog/welcome",
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
             "description": "Docusaurus blogging features are powered by the blog plugin.",
             "date": "2021-08-26T00:00:00.000Z",
-            "formattedDate": "August 26, 2021",
+            "formattedDate": "2021년 8월 26일",
             "tags": [
               {
                 "label": "facebook",
-                "permalink": "/OneZero_website/build/en/blog/tags/facebook"
+                "permalink": "/OneZero_website/build/blog/tags/facebook"
               },
               {
                 "label": "hello",
-                "permalink": "/OneZero_website/build/en/blog/tags/hello"
+                "permalink": "/OneZero_website/build/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/OneZero_website/build/en/blog/tags/docusaurus"
+                "permalink": "/OneZero_website/build/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.405,
@@ -778,11 +778,11 @@
             },
             "prevItem": {
               "title": "첫 블로그 글",
-              "permalink": "/OneZero_website/build/en/blog/first post"
+              "permalink": "/OneZero_website/build/blog/first post"
             },
             "nextItem": {
               "title": "MDX Blog Post",
-              "permalink": "/OneZero_website/build/en/blog/mdx-blog-post"
+              "permalink": "/OneZero_website/build/blog/mdx-blog-post"
             }
           },
           "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
@@ -790,17 +790,17 @@
         {
           "id": "mdx-blog-post",
           "metadata": {
-            "permalink": "/OneZero_website/build/en/blog/mdx-blog-post",
+            "permalink": "/OneZero_website/build/blog/mdx-blog-post",
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
             "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
             "date": "2021-08-01T00:00:00.000Z",
-            "formattedDate": "August 1, 2021",
+            "formattedDate": "2021년 8월 1일",
             "tags": [
               {
                 "label": "docusaurus",
-                "permalink": "/OneZero_website/build/en/blog/tags/docusaurus"
+                "permalink": "/OneZero_website/build/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.175,
@@ -826,11 +826,11 @@
             },
             "prevItem": {
               "title": "Welcome",
-              "permalink": "/OneZero_website/build/en/blog/welcome"
+              "permalink": "/OneZero_website/build/blog/welcome"
             },
             "nextItem": {
               "title": "Long Blog Post",
-              "permalink": "/OneZero_website/build/en/blog/long-blog-post"
+              "permalink": "/OneZero_website/build/blog/long-blog-post"
             }
           },
           "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
@@ -838,21 +838,21 @@
         {
           "id": "long-blog-post",
           "metadata": {
-            "permalink": "/OneZero_website/build/en/blog/long-blog-post",
+            "permalink": "/OneZero_website/build/blog/long-blog-post",
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
             "description": "This is the summary of a very long blog post,",
             "date": "2019-05-29T00:00:00.000Z",
-            "formattedDate": "May 29, 2019",
+            "formattedDate": "2019년 5월 29일",
             "tags": [
               {
                 "label": "hello",
-                "permalink": "/OneZero_website/build/en/blog/tags/hello"
+                "permalink": "/OneZero_website/build/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/OneZero_website/build/en/blog/tags/docusaurus"
+                "permalink": "/OneZero_website/build/blog/tags/docusaurus"
               }
             ],
             "readingTime": 2.05,
@@ -877,11 +877,11 @@
             },
             "prevItem": {
               "title": "MDX Blog Post",
-              "permalink": "/OneZero_website/build/en/blog/mdx-blog-post"
+              "permalink": "/OneZero_website/build/blog/mdx-blog-post"
             },
             "nextItem": {
               "title": "First Blog Post",
-              "permalink": "/OneZero_website/build/en/blog/first-blog-post"
+              "permalink": "/OneZero_website/build/blog/first-blog-post"
             }
           },
           "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -889,21 +889,21 @@
         {
           "id": "first-blog-post",
           "metadata": {
-            "permalink": "/OneZero_website/build/en/blog/first-blog-post",
+            "permalink": "/OneZero_website/build/blog/first-blog-post",
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
             "date": "2019-05-28T00:00:00.000Z",
-            "formattedDate": "May 28, 2019",
+            "formattedDate": "2019년 5월 28일",
             "tags": [
               {
                 "label": "hola",
-                "permalink": "/OneZero_website/build/en/blog/tags/hola"
+                "permalink": "/OneZero_website/build/blog/tags/hola"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/OneZero_website/build/en/blog/tags/docusaurus"
+                "permalink": "/OneZero_website/build/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.12,
@@ -934,7 +934,7 @@
             },
             "prevItem": {
               "title": "Long Blog Post",
-              "permalink": "/OneZero_website/build/en/blog/long-blog-post"
+              "permalink": "/OneZero_website/build/blog/long-blog-post"
             }
           },
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -950,7 +950,7 @@
             "first-blog-post"
           ],
           "metadata": {
-            "permalink": "/OneZero_website/build/en/blog",
+            "permalink": "/OneZero_website/build/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -961,19 +961,19 @@
         }
       ],
       "blogTags": {
-        "/OneZero_website/build/en/blog/tags/greetings": {
+        "/OneZero_website/build/blog/tags/greetings": {
           "label": "greetings",
           "items": [
             "first post"
           ],
-          "permalink": "/OneZero_website/build/en/blog/tags/greetings",
+          "permalink": "/OneZero_website/build/blog/tags/greetings",
           "pages": [
             {
               "items": [
                 "first post"
               ],
               "metadata": {
-                "permalink": "/OneZero_website/build/en/blog/tags/greetings",
+                "permalink": "/OneZero_website/build/blog/tags/greetings",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -984,19 +984,19 @@
             }
           ]
         },
-        "/OneZero_website/build/en/blog/tags/facebook": {
+        "/OneZero_website/build/blog/tags/facebook": {
           "label": "facebook",
           "items": [
             "welcome"
           ],
-          "permalink": "/OneZero_website/build/en/blog/tags/facebook",
+          "permalink": "/OneZero_website/build/blog/tags/facebook",
           "pages": [
             {
               "items": [
                 "welcome"
               ],
               "metadata": {
-                "permalink": "/OneZero_website/build/en/blog/tags/facebook",
+                "permalink": "/OneZero_website/build/blog/tags/facebook",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -1007,13 +1007,13 @@
             }
           ]
         },
-        "/OneZero_website/build/en/blog/tags/hello": {
+        "/OneZero_website/build/blog/tags/hello": {
           "label": "hello",
           "items": [
             "welcome",
             "long-blog-post"
           ],
-          "permalink": "/OneZero_website/build/en/blog/tags/hello",
+          "permalink": "/OneZero_website/build/blog/tags/hello",
           "pages": [
             {
               "items": [
@@ -1021,7 +1021,7 @@
                 "long-blog-post"
               ],
               "metadata": {
-                "permalink": "/OneZero_website/build/en/blog/tags/hello",
+                "permalink": "/OneZero_website/build/blog/tags/hello",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -1032,7 +1032,7 @@
             }
           ]
         },
-        "/OneZero_website/build/en/blog/tags/docusaurus": {
+        "/OneZero_website/build/blog/tags/docusaurus": {
           "label": "docusaurus",
           "items": [
             "welcome",
@@ -1040,7 +1040,7 @@
             "long-blog-post",
             "first-blog-post"
           ],
-          "permalink": "/OneZero_website/build/en/blog/tags/docusaurus",
+          "permalink": "/OneZero_website/build/blog/tags/docusaurus",
           "pages": [
             {
               "items": [
@@ -1050,7 +1050,7 @@
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/OneZero_website/build/en/blog/tags/docusaurus",
+                "permalink": "/OneZero_website/build/blog/tags/docusaurus",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -1061,19 +1061,19 @@
             }
           ]
         },
-        "/OneZero_website/build/en/blog/tags/hola": {
+        "/OneZero_website/build/blog/tags/hola": {
           "label": "hola",
           "items": [
             "first-blog-post"
           ],
-          "permalink": "/OneZero_website/build/en/blog/tags/hola",
+          "permalink": "/OneZero_website/build/blog/tags/hola",
           "pages": [
             {
               "items": [
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/OneZero_website/build/en/blog/tags/hola",
+                "permalink": "/OneZero_website/build/blog/tags/hola",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -1085,19 +1085,19 @@
           ]
         }
       },
-      "blogTagsListPath": "/OneZero_website/build/en/blog/tags"
+      "blogTagsListPath": "/OneZero_website/build/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/OneZero_website/build/en/",
+        "permalink": "/OneZero_website/build/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/OneZero_website/build/en/markdown-page",
+        "permalink": "/OneZero_website/build/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",
