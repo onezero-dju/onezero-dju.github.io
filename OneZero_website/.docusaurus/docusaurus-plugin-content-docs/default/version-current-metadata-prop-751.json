@@ -64,7 +64,7 @@
                 "docId": "사용법/tutorial-basics/congratulations"
               }
             ],
-            "href": "/OneZero_website/build/en/docs/category/tutorial---basics"
+            "href": "/OneZero_website/build/en/docs/category/설명서---기본"
           },
           {
             "type": "category",
@@ -85,7 +85,7 @@
                 "docId": "사용법/tutorial-extras/translate-your-site"
               }
             ],
-            "href": "/OneZero_website/build/en/docs/category/tutorial---extras"
+            "href": "/OneZero_website/build/en/docs/category/설명서---심화"
           }
         ]
       },

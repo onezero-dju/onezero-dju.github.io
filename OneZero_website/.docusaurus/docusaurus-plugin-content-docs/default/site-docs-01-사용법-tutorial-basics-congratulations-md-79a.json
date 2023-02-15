@@ -2,7 +2,7 @@
   "unversionedId": "사용법/tutorial-basics/congratulations",
   "id": "사용법/tutorial-basics/congratulations",
   "title": "축하합니다!",
-  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "description": "방금 다큐사우러스의 기초에 대해 배웠고 원본 템플릿에 변형을 좀 해봤습니다.",
   "source": "@site/docs/01-사용법/tutorial-basics/congratulations.md",
   "sourceDirName": "01-사용법/tutorial-basics",
   "slug": "/사용법/tutorial-basics/congratulations",
@@ -21,7 +21,7 @@
     "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/deploy-your-site"
   },
   "next": {
-    "title": "Tutorial - Extras",
-    "permalink": "/OneZero_website/build/docs/category/tutorial---extras"
+    "title": "설명서 - 심화",
+    "permalink": "/OneZero_website/build/docs/category/설명서---심화"
   }
 }

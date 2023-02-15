@@ -1,0 +1,16 @@
+{
+  "title": "설명서 - 기본",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/설명서---기본",
+  "permalink": "/OneZero_website/build/en/docs/category/설명서---기본",
+  "navigation": {
+    "previous": {
+      "title": "Tutorial Intro",
+      "permalink": "/OneZero_website/build/en/docs/intro"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/OneZero_website/build/en/docs/사용법/tutorial-basics/create-a-page"
+    }
+  }
+}

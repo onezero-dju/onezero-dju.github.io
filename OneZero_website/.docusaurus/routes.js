@@ -74,7 +74,7 @@ export default [
   },
   {
     path: '/OneZero_website/build/en/docs',
-    component: ComponentCreator('/OneZero_website/build/en/docs', '672'),
+    component: ComponentCreator('/OneZero_website/build/en/docs', 'db1'),
     routes: [
       {
         path: '/OneZero_website/build/en/docs/사용법/tutorial-basics/congratulations',
@@ -137,14 +137,14 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/OneZero_website/build/en/docs/category/tutorial---basics',
-        component: ComponentCreator('/OneZero_website/build/en/docs/category/tutorial---basics', 'd74'),
+        path: '/OneZero_website/build/en/docs/category/설명서---기본',
+        component: ComponentCreator('/OneZero_website/build/en/docs/category/설명서---기본', 'e31'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/OneZero_website/build/en/docs/category/tutorial---extras',
-        component: ComponentCreator('/OneZero_website/build/en/docs/category/tutorial---extras', 'fef'),
+        path: '/OneZero_website/build/en/docs/category/설명서---심화',
+        component: ComponentCreator('/OneZero_website/build/en/docs/category/설명서---심화', 'af5'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

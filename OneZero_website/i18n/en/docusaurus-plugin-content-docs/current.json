@@ -7,17 +7,17 @@
     "message": "HOW To Use",
     "description": "The label for category 사용법 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
+    "sidebar.tutorialSidebar.category.설명서 - 기본": {
     "message": "Tutorial - Basics",
-    "description": "The label for category Tutorial - Basics in sidebar tutorialSidebar"
+    "description": "The label for category 설명서 - 기본 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Tutorial - Basics.link.generated-index.description": {
     "message": "5 minutes to learn the most important Docusaurus concepts.",
     "description": "The generated-index page description for category Tutorial - Basics in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
+    "sidebar.tutorialSidebar.category.설명서 - 심화": {
     "message": "Tutorial - Extras",
-    "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+    "description": "The label for category 설명서 - 심화 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Wiki": {
     "message": "Wiki",
@@ -82,5 +82,9 @@
   "sidebar.tutorialSidebar.category.학교 과정": {
     "message": "School Lecture",
     "description": "The label for category 학교 과정 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.설명서 - 기본.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category 설명서 - 기본 in sidebar tutorialSidebar"
   }
 }
