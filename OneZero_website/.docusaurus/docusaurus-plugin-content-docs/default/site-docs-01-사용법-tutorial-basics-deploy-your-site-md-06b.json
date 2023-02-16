@@ -1,8 +1,8 @@
 {
   "unversionedId": "사용법/tutorial-basics/deploy-your-site",
   "id": "사용법/tutorial-basics/deploy-your-site",
-  "title": "Deploy your site",
-  "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+  "title": "사이트 배포",
+  "description": "다큐사우러스는 정적 사이트 생성기입니다. 이를 잼스택이라고도 부릅니다.",
   "source": "@site/docs/01-사용법/tutorial-basics/deploy-your-site.md",
   "sourceDirName": "01-사용법/tutorial-basics",
   "slug": "/사용법/tutorial-basics/deploy-your-site",
