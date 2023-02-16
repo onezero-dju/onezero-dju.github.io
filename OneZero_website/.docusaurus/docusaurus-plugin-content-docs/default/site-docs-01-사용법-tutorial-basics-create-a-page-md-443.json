@@ -1,8 +1,8 @@
 {
   "unversionedId": "사용법/tutorial-basics/create-a-page",
   "id": "사용법/tutorial-basics/create-a-page",
-  "title": "Create a Page",
-  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "title": "페이지 만들기",
+  "description": "standalone 페이지를 만들기 위해 src/pages에 마크다운 또는 리액트 파일 추가하기:",
   "source": "@site/docs/01-사용법/tutorial-basics/create-a-page.md",
   "sourceDirName": "01-사용법/tutorial-basics",
   "slug": "/사용법/tutorial-basics/create-a-page",
