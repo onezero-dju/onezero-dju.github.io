@@ -2,7 +2,6 @@
 sidebar_position: 3
 ---
 
-<!-- # Create a Blog Post -->
 # 블로그 포스트 작성하기
 
 <!-- Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed... -->
@@ -30,10 +29,8 @@ authors:
 tags: [greetings]
 ---
 
-<!-- Congratulations, you have made your first post! -->
 축하합니다, 첫 포스팅을 하셨네요!
 
-<!-- Feel free to play around and edit this post as much you like. -->
 얼마든지 자유롭게 이 포스트를 편집해가며 가지고 놀아보세요.
 ```
 

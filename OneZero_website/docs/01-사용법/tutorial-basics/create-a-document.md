@@ -2,7 +2,6 @@
 sidebar_position: 2
 ---
 
-<!-- # Create a Document -->
 # 도큐멘트 만들기
 
 <!-- Documents are **groups of pages** connected through: -->
@@ -47,7 +46,6 @@ sidebar_position: 3
 
 # 안녕
 
-<!-- This is my **first Docusaurus document**! -->
 이건 내 **첫 도큐사우러스 도큐멘트**야!
 ```
 
