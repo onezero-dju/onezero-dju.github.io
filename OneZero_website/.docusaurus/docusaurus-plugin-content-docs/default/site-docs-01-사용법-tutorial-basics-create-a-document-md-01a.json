@@ -1,8 +1,8 @@
 {
   "unversionedId": "사용법/tutorial-basics/create-a-document",
   "id": "사용법/tutorial-basics/create-a-document",
-  "title": "Create a Document",
-  "description": "Documents are groups of pages connected through:",
+  "title": "create-a-document",
+  "description": "도큐멘트는 페이지들의 집합입니다. 이는 다음과 같은 기능들로 묶여있습니다.",
   "source": "@site/docs/01-사용법/tutorial-basics/create-a-document.md",
   "sourceDirName": "01-사용법/tutorial-basics",
   "slug": "/사용법/tutorial-basics/create-a-document",

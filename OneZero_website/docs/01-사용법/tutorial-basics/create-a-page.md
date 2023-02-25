@@ -15,7 +15,7 @@ sidebar_position: 1
 ## 첫 리액트 페이지 만들기
 
 <!-- Create a file at `src/pages/my-react-page.js`: -->
-`src/pages/my-react-page.js`에 파일 만들기:
+`src/pages/my-react-page.js`에 파일 생성:
 
 ```jsx title="src/pages/my-react-page.js"
 import React from 'react';
@@ -38,7 +38,7 @@ export default function MyReactPage() {
 ## 첫 마크다운 페이지 만들기
 
 <!-- Create a file at `src/pages/my-markdown-page.md`: -->
-`src/pages/my-markdown-page.md`에 파일 만들기:
+`src/pages/my-markdown-page.md`에 파일 생성:
 
 ```mdx title="src/pages/my-markdown-page.md"
 # 내 마크다운 페이지
