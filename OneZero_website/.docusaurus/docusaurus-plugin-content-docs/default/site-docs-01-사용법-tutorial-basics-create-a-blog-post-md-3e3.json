@@ -1,8 +1,8 @@
 {
   "unversionedId": "사용법/tutorial-basics/create-a-blog-post",
   "id": "사용법/tutorial-basics/create-a-blog-post",
-  "title": "Create a Blog Post",
-  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "title": "create-a-blog-post",
+  "description": "도큐사우러스는 각 블로그 포스트를 위한 페이지를 만들지만, 그 외에도 블로그 색인 페이지, 태그 체계, RSS 피드, 등을 생성할 수 있다.",
   "source": "@site/docs/01-사용법/tutorial-basics/create-a-blog-post.md",
   "sourceDirName": "01-사용법/tutorial-basics",
   "slug": "/사용법/tutorial-basics/create-a-blog-post",
