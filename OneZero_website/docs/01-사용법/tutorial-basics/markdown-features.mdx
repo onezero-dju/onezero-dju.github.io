@@ -2,13 +2,16 @@
 sidebar_position: 4
 ---
 
-# Markdown Features
+# 마크다운 기능
 
-Docusaurus supports **[Markdown](https://daringfireball.net/projects/markdown/syntax)** and a few **additional features**.
+<!-- Docusaurus supports **[Markdown](https://daringfireball.net/projects/markdown/syntax)** and a few **additional features**. -->
+다큐사우러스는 **[마크다운](https://daringfireball.net/projects/markdown/syntax)**과 몇 가지 **추가 기능**을 지원합니다.
 
-## Front Matter
+<!-- ## Front Matter -->
+## 전문(前文)
 
-Markdown documents have metadata at the top called [Front Matter](https://jekyllrb.com/docs/front-matter/):
+<!-- Markdown documents have metadata at the top called [Front Matter](https://jekyllrb.com/docs/front-matter/): -->
+마크다운 문서는 [전문](https://jekyllrb.com/docs/front-matter/)이라 불리는 메타데이터를 다음과 같이 가지고 있습니다:
 
 ```text title="my-doc.md"
 // highlight-start
@@ -25,9 +28,11 @@ slug: /my-custom-url
 Markdown text with [links](./hello.md)
 ```
 
-## Links
+<!-- ## Links -->
+## 링크
 
-Regular Markdown links are supported, using url paths or relative file paths.
+<!-- Regular Markdown links are supported, using url paths or relative file paths. -->
+URL 경로 또는 파일 상대 경로를 통해 일반적인 마크다운 링크를 지원합니다. 
 
 ```md
 Let's see how to [Create a page](/create-a-page).
@@ -39,11 +44,14 @@ Let's see how to [Create a page](./create-a-page.md).
 
 **Result:** Let's see how to [Create a page](./create-a-page.md).
 
-## Images
+<!-- ## Images -->
+## 이미지
 
-Regular Markdown images are supported.
+<!-- Regular Markdown images are supported. -->
+일반적인 마크다운 이미지를 지원합니다.
 
 You can use absolute paths to reference images in the static directory (`static/img/docusaurus.png`):
+다음과 같이, 절대 경로를 통해 정적 디렉토리 (`static/img/docusaurus.png`)에 있는 이미지를 참조할 수도 있습니다:
 
 ```md
 ![Docusaurus logo](/img/docusaurus.png)
@@ -52,14 +60,17 @@ You can use absolute paths to reference images in the static directory (`static/
 ![Docusaurus logo](/img/docusaurus.png)
 
 You can reference images relative to the current file as well. This is particularly useful to colocate images close to the Markdown files using them:
+또한 아래의 코드처럼 현재 파일을 기준으로 상대적으로 이미지를 참조할 수 있다. 이는 참조되는 이미지가 참조하는 마크다운 파일과 가까울 때 특히 유용하다:
 
 ```md
 ![Docusaurus logo](./img/docusaurus.png)
 ```
 
-## Code Blocks
+<!-- ## Code Blocks -->
+## 코드 블럭
 
 Markdown code blocks are supported with Syntax highlighting.
+마크다운 코드 블럭은 코드의 문법 강조 기능(Syntax highlighting)을 지원한다.
 
     ```jsx title="src/components/HelloDocusaurus.js"
     function HelloDocusaurus() {
@@ -75,9 +86,11 @@ function HelloDocusaurus() {
 }
 ```
 
-## Admonitions
+<!-- ## Admonitions -->
+## 충고
 
-Docusaurus has a special syntax to create admonitions and callouts:
+<!-- Docusaurus has a special syntax to create admonitions and callouts: -->
+다큐사우러스는 충고와 조언을 남기기 위한 특별한 문법을 가지고 있습니다.
 
     :::tip My tip
 
@@ -103,9 +116,11 @@ This action is dangerous
 
 :::
 
-## MDX and React Components
+<!-- ## MDX and React Components -->
+## MDX와 React 요소
 
-[MDX](https://mdxjs.com/) can make your documentation more **interactive** and allows using any **React components inside Markdown**:
+<!-- [MDX](https://mdxjs.com/) can make your documentation more **interactive** and allows using any **React components inside Markdown**: -->
+[MDX](https://mdxjs.com/)는 더 **상호작용**하는 문서화를 할 수 있게 해주고, React 요소를 마크다운 안에 넣을 수 있게 해줍니다:
 
 ```jsx
 export const Highlight = ({children, color}) => (
@@ -145,6 +160,8 @@ export const Highlight = ({children, color}) => (
   </span>
 );
 
-This is <Highlight color="#25c2a0">Docusaurus green</Highlight> !
+<!-- This is <Highlight color="#25c2a0">Docusaurus green</Highlight> ! -->
+이 색은 <Highlight color="#25c2a0">다큐사우러스 녹색</Highlight> 이에요!
 
-This is <Highlight color="#1877F2">Facebook blue</Highlight> !
+<!-- This is <Highlight color="#1877F2">Facebook blue</Highlight> ! -->
+이 색은 <Highlight color="#1877F2">페이스북 청색</Highlight> 이에요!
