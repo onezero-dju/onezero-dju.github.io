@@ -1,8 +1,8 @@
 {
   "unversionedId": "사용법/tutorial-basics/markdown-features",
   "id": "사용법/tutorial-basics/markdown-features",
-  "title": "Markdown Features",
-  "description": "Docusaurus supports Markdown and a few additional features.",
+  "title": "마크다운 기능",
+  "description": "다큐사우러스는 마크다운과 몇 가지 추가 기능을 지원합니다.",
   "source": "@site/docs/01-사용법/tutorial-basics/markdown-features.mdx",
   "sourceDirName": "01-사용법/tutorial-basics",
   "slug": "/사용법/tutorial-basics/markdown-features",
