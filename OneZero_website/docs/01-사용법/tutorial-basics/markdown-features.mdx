@@ -35,14 +35,15 @@ Markdown text with [links](./hello.md)
 URL 경로 또는 파일 상대 경로를 통해 일반적인 마크다운 링크를 지원합니다. 
 
 ```md
-Let's see how to [Create a page](/create-a-page).
+[페이지 만들기](/create-a-page.md)를 어떻게 하는지 봅시다.
 ```
 
 ```md
-Let's see how to [Create a page](./create-a-page.md).
+[페이지 만들기](./create-a-page.md)를 어떻게 하는지 봅시다.
 ```
 
-**Result:** Let's see how to [Create a page](./create-a-page.md).
+<!-- **Result:** Let's see how to [Create a page](./create-a-page.md). -->
+**결과:** [페이지 만들기](./create-a-page.md)를 어떻게 하는지 봅시다.
 
 <!-- ## Images -->
 ## 이미지
@@ -50,7 +51,7 @@ Let's see how to [Create a page](./create-a-page.md).
 <!-- Regular Markdown images are supported. -->
 일반적인 마크다운 이미지를 지원합니다.
 
-You can use absolute paths to reference images in the static directory (`static/img/docusaurus.png`):
+<!-- You can use absolute paths to reference images in the static directory (`static/img/docusaurus.png`): -->
 다음과 같이, 절대 경로를 통해 정적 디렉토리 (`static/img/docusaurus.png`)에 있는 이미지를 참조할 수도 있습니다:
 
 ```md
@@ -59,8 +60,8 @@ You can use absolute paths to reference images in the static directory (`static/
 
 ![Docusaurus logo](/img/docusaurus.png)
 
-You can reference images relative to the current file as well. This is particularly useful to colocate images close to the Markdown files using them:
-또한 아래의 코드처럼 현재 파일을 기준으로 상대적으로 이미지를 참조할 수 있다. 이는 참조되는 이미지가 참조하는 마크다운 파일과 가까울 때 특히 유용하다:
+<!-- You can reference images relative to the current file as well. This is particularly useful to colocate images close to the Markdown files using them: -->
+또한 아래의 코드처럼 현재 파일을 기준으로 상대적으로 이미지를 참조할 수 있습니다. 이는 참조되는 이미지가 참조하는 마크다운 파일과 가까울 때 특히 유용합니다:
 
 ```md
 ![Docusaurus logo](./img/docusaurus.png)
@@ -69,8 +70,8 @@ You can reference images relative to the current file as well. This is particula
 <!-- ## Code Blocks -->
 ## 코드 블럭
 
-Markdown code blocks are supported with Syntax highlighting.
-마크다운 코드 블럭은 코드의 문법 강조 기능(Syntax highlighting)을 지원한다.
+<!-- Markdown code blocks are supported with Syntax highlighting. -->
+마크다운 코드 블럭은 코드의 문법 강조 기능(Syntax highlighting)을 지원합니다.
 
     ```jsx title="src/components/HelloDocusaurus.js"
     function HelloDocusaurus() {
@@ -92,27 +93,27 @@ function HelloDocusaurus() {
 <!-- Docusaurus has a special syntax to create admonitions and callouts: -->
 다큐사우러스는 충고와 조언을 남기기 위한 특별한 문법을 가지고 있습니다.
 
-    :::tip My tip
+    :::tip 나의 팁
 
-    Use this awesome feature option
-
-    :::
-
-    :::danger Take care
-
-    This action is dangerous
+    이 좋은 기능을 써봐요
 
     :::
 
-:::tip My tip
+    :::danger 각별히 주의
 
-Use this awesome feature option
+    이 행동은 위험해요
+
+    :::
+
+:::tip 나의 팁
+
+이 좋은 기능을 써봐요
 
 :::
 
-:::danger Take care
+:::danger 각별히 주의
 
-This action is dangerous
+이 행동은 위험해요
 
 :::
 
