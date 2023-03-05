@@ -95,7 +95,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'wiki',
+            docId: 'forDocId',
             position: 'left',
             label: 'Wiki',
           },

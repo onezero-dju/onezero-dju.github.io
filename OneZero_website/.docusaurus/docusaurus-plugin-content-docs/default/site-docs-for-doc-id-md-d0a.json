@@ -1,0 +1,20 @@
+{
+  "unversionedId": "forDocId",
+  "id": "forDocId",
+  "title": "forDocId",
+  "description": "",
+  "source": "@site/docs/forDocId.md",
+  "sourceDirName": ".",
+  "slug": "/forDocId",
+  "permalink": "/OneZero_website/build/en/docs/forDocId",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/forDocId.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "testTXT",
+    "permalink": "/OneZero_website/build/en/docs/학교 과정/testTXT"
+  }
+}

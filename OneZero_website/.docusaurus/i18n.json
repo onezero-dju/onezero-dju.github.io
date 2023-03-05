@@ -5,7 +5,7 @@
     "en"
   ],
   "path": "i18n",
-  "currentLocale": "ko",
+  "currentLocale": "en",
   "localeConfigs": {
     "ko": {
       "label": "한국어",

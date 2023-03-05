@@ -16,5 +16,9 @@
   "previous": {
     "title": "Test",
     "permalink": "/OneZero_website/build/en/docs/Troubleshooting/test"
+  },
+  "next": {
+    "title": "forDocId",
+    "permalink": "/OneZero_website/build/en/docs/forDocId"
   }
 }

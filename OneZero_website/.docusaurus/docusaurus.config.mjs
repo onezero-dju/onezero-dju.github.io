@@ -8,7 +8,7 @@ export default {
   "tagline": "One-Zero",
   "favicon": "img/favicon.ico",
   "url": "https://onezero-dju.github.io",
-  "baseUrl": "/OneZero_website/build/",
+  "baseUrl": "/OneZero_website/build/en/",
   "organizationName": "onezero-dju",
   "projectName": "onezero-dju.github.io",
   "deploymentBranch": "pre-deploy",
@@ -79,7 +79,7 @@ export default {
         },
         {
           "type": "doc",
-          "docId": "wiki",
+          "docId": "forDocId",
           "position": "left",
           "label": "Wiki"
         },

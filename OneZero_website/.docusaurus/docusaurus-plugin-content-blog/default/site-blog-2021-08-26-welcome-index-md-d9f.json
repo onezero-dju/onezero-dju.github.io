@@ -1,23 +1,23 @@
 {
-  "permalink": "/OneZero_website/build/blog/welcome",
+  "permalink": "/OneZero_website/build/en/blog/welcome",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
   "source": "@site/blog/2021-08-26-welcome/index.md",
   "title": "Welcome",
   "description": "Docusaurus blogging features are powered by the blog plugin.",
   "date": "2021-08-26T00:00:00.000Z",
-  "formattedDate": "2021년 8월 26일",
+  "formattedDate": "August 26, 2021",
   "tags": [
     {
       "label": "facebook",
-      "permalink": "/OneZero_website/build/blog/tags/facebook"
+      "permalink": "/OneZero_website/build/en/blog/tags/facebook"
     },
     {
       "label": "hello",
-      "permalink": "/OneZero_website/build/blog/tags/hello"
+      "permalink": "/OneZero_website/build/en/blog/tags/hello"
     },
     {
       "label": "docusaurus",
-      "permalink": "/OneZero_website/build/blog/tags/docusaurus"
+      "permalink": "/OneZero_website/build/en/blog/tags/docusaurus"
     }
   ],
   "readingTime": 0.405,
@@ -53,10 +53,10 @@
   },
   "prevItem": {
     "title": "첫 블로그 글",
-    "permalink": "/OneZero_website/build/blog/first post"
+    "permalink": "/OneZero_website/build/en/blog/first post"
   },
   "nextItem": {
     "title": "MDX Blog Post",
-    "permalink": "/OneZero_website/build/blog/mdx-blog-post"
+    "permalink": "/OneZero_website/build/en/blog/mdx-blog-post"
   }
 }
