@@ -1,6 +1,6 @@
 {
   "type": "mdx",
-  "permalink": "/OneZero_website/build/en/markdown-page",
+  "permalink": "/OneZero_website/build/markdown-page",
   "source": "@site/src/pages/markdown-page.md",
   "title": "Markdown page example",
   "description": "You don't need React to write simple standalone pages.",

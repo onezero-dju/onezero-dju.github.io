@@ -3,23 +3,23 @@
   "items": [
     {
       "title": "첫 블로그 글",
-      "permalink": "/OneZero_website/build/en/blog/first post"
+      "permalink": "/OneZero_website/build/blog/first post"
     },
     {
       "title": "Welcome",
-      "permalink": "/OneZero_website/build/en/blog/welcome"
+      "permalink": "/OneZero_website/build/blog/welcome"
     },
     {
       "title": "MDX Blog Post",
-      "permalink": "/OneZero_website/build/en/blog/mdx-blog-post"
+      "permalink": "/OneZero_website/build/blog/mdx-blog-post"
     },
     {
       "title": "Long Blog Post",
-      "permalink": "/OneZero_website/build/en/blog/long-blog-post"
+      "permalink": "/OneZero_website/build/blog/long-blog-post"
     },
     {
       "title": "First Blog Post",
-      "permalink": "/OneZero_website/build/en/blog/first-blog-post"
+      "permalink": "/OneZero_website/build/blog/first-blog-post"
     }
   ]
 }

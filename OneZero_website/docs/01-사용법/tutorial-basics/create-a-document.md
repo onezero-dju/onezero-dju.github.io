@@ -49,7 +49,7 @@ sidebar_position: 3
 이건 내 **첫 도큐사우러스 도큐멘트**야!
 ```
 
-It is also possible to create your sidebar explicitly in `sidebars.js`:
+<!-- It is also possible to create your sidebar explicitly in `sidebars.js`: -->
 `sidebars.js`를 통해 명시적으로 사이드바 생성:
 
 ```js title="sidebars.js"

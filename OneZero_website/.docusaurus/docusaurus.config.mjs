@@ -8,7 +8,7 @@ export default {
   "tagline": "One-Zero",
   "favicon": "img/favicon.ico",
   "url": "https://onezero-dju.github.io",
-  "baseUrl": "/OneZero_website/build/en/",
+  "baseUrl": "/OneZero_website/build/",
   "organizationName": "onezero-dju",
   "projectName": "onezero-dju.github.io",
   "deploymentBranch": "pre-deploy",
@@ -28,7 +28,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\양기택\\Documents\\_Projects\\OneZero homepage\\OneZero_website\\sidebars.js",
+          "sidebarPath": "C:\\Users\\기택\\Desktop\\OneZero homepage\\OneZero_website\\sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -36,7 +36,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "C:\\Users\\양기택\\Documents\\_Projects\\OneZero homepage\\OneZero_website\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\기택\\Desktop\\OneZero homepage\\OneZero_website\\src\\css\\custom.css"
         }
       }
     ]
@@ -79,7 +79,7 @@ export default {
         },
         {
           "type": "doc",
-          "docId": "intro",
+          "docId": "wiki",
           "position": "left",
           "label": "Wiki"
         },
