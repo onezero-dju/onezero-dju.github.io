@@ -78,10 +78,20 @@ export default {
           "label": "Tutorial"
         },
         {
-          "type": "doc",
-          "docId": "forDocId",
+          "type": "dropdown",
+          "label": "Wiki",
           "position": "left",
-          "label": "Wiki"
+          "docId": "forDocId",
+          "items": [
+            {
+              "label": "WIKI",
+              "to": "docs/wiki/forDocId",
+              "sidebarLabel": "WIKI side",
+              "customProps": {
+                "sidebar": "wiki-sidebar"
+              }
+            }
+          ]
         },
         {
           "to": "/blog",

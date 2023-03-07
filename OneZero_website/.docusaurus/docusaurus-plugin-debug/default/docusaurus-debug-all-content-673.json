@@ -15,15 +15,15 @@
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/ko/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\양기택\\Documents\\_Projects\\OneZero homepage\\OneZero_website\\sidebars.js",
-          "contentPath": "C:\\Users\\양기택\\Documents\\_Projects\\OneZero homepage\\OneZero_website\\docs",
-          "contentPathLocalized": "C:\\Users\\양기택\\Documents\\_Projects\\OneZero homepage\\OneZero_website\\i18n\\ko\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "C:\\Users\\기택\\Desktop\\OneZero homepage\\OneZero_website\\sidebars.js",
+          "contentPath": "C:\\Users\\기택\\Desktop\\OneZero homepage\\OneZero_website\\docs",
+          "contentPathLocalized": "C:\\Users\\기택\\Desktop\\OneZero homepage\\OneZero_website\\i18n\\ko\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "unversionedId": "사용법/tutorial-basics/congratulations",
               "id": "사용법/tutorial-basics/congratulations",
               "title": "축하합니다!",
-              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+              "description": "방금 다큐사우러스의 기초에 대해 배웠고 원본 템플릿에 변형을 좀 해봤습니다.",
               "source": "@site/docs/01-사용법/tutorial-basics/congratulations.md",
               "sourceDirName": "01-사용법/tutorial-basics",
               "slug": "/사용법/tutorial-basics/congratulations",
@@ -38,19 +38,19 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Deploy your site",
+                "title": "사이트 배포",
                 "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/deploy-your-site"
               },
               "next": {
-                "title": "Tutorial - Extras",
-                "permalink": "/OneZero_website/build/docs/category/tutorial---extras"
+                "title": "설명서 - 심화",
+                "permalink": "/OneZero_website/build/docs/category/설명서---심화"
               }
             },
             {
               "unversionedId": "사용법/tutorial-basics/create-a-blog-post",
               "id": "사용법/tutorial-basics/create-a-blog-post",
-              "title": "Create a Blog Post",
-              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "title": "블로그 포스트 작성하기",
+              "description": "도큐사우러스는 각 블로그 포스트를 위한 페이지를 만들지만, 그 외에도 블로그 색인 페이지, 태그 체계, RSS 피드, 등을 생성할 수 있다.",
               "source": "@site/docs/01-사용법/tutorial-basics/create-a-blog-post.md",
               "sourceDirName": "01-사용법/tutorial-basics",
               "slug": "/사용법/tutorial-basics/create-a-blog-post",
@@ -65,19 +65,19 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create a Document",
+                "title": "도큐멘트 만들기",
                 "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/create-a-document"
               },
               "next": {
-                "title": "Markdown Features",
+                "title": "마크다운 기능",
                 "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/markdown-features"
               }
             },
             {
               "unversionedId": "사용법/tutorial-basics/create-a-document",
               "id": "사용법/tutorial-basics/create-a-document",
-              "title": "Create a Document",
-              "description": "Documents are groups of pages connected through:",
+              "title": "도큐멘트 만들기",
+              "description": "도큐멘트는 페이지들의 집합입니다. 이는 다음과 같은 기능들로 묶여있습니다.",
               "source": "@site/docs/01-사용법/tutorial-basics/create-a-document.md",
               "sourceDirName": "01-사용법/tutorial-basics",
               "slug": "/사용법/tutorial-basics/create-a-document",
@@ -92,19 +92,19 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create a Page",
+                "title": "페이지 만들기",
                 "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/create-a-page"
               },
               "next": {
-                "title": "Create a Blog Post",
+                "title": "블로그 포스트 작성하기",
                 "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/create-a-blog-post"
               }
             },
             {
               "unversionedId": "사용법/tutorial-basics/create-a-page",
               "id": "사용법/tutorial-basics/create-a-page",
-              "title": "Create a Page",
-              "description": "Add Markdown or React files to src/pages to create a standalone page:",
+              "title": "페이지 만들기",
+              "description": "standalone 페이지를 만들기 위해 src/pages에 마크다운 또는 리액트 파일 추가하기:",
               "source": "@site/docs/01-사용법/tutorial-basics/create-a-page.md",
               "sourceDirName": "01-사용법/tutorial-basics",
               "slug": "/사용법/tutorial-basics/create-a-page",
@@ -119,19 +119,19 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Tutorial - Basics",
-                "permalink": "/OneZero_website/build/docs/category/tutorial---basics"
+                "title": "설명서 - 기본",
+                "permalink": "/OneZero_website/build/docs/category/설명서---기본"
               },
               "next": {
-                "title": "Create a Document",
+                "title": "도큐멘트 만들기",
                 "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/create-a-document"
               }
             },
             {
               "unversionedId": "사용법/tutorial-basics/deploy-your-site",
               "id": "사용법/tutorial-basics/deploy-your-site",
-              "title": "Deploy your site",
-              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+              "title": "사이트 배포",
+              "description": "다큐사우러스는 정적 사이트 생성기입니다. 이를 잼스택이라고도 부릅니다.",
               "source": "@site/docs/01-사용법/tutorial-basics/deploy-your-site.md",
               "sourceDirName": "01-사용법/tutorial-basics",
               "slug": "/사용법/tutorial-basics/deploy-your-site",
@@ -146,7 +146,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Markdown Features",
+                "title": "마크다운 기능",
                 "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/markdown-features"
               },
               "next": {
@@ -157,8 +157,8 @@
             {
               "unversionedId": "사용법/tutorial-basics/markdown-features",
               "id": "사용법/tutorial-basics/markdown-features",
-              "title": "Markdown Features",
-              "description": "Docusaurus supports Markdown and a few additional features.",
+              "title": "마크다운 기능",
+              "description": "다큐사우러스는 마크다운과 몇 가지 추가 기능을 지원합니다.",
               "source": "@site/docs/01-사용법/tutorial-basics/markdown-features.mdx",
               "sourceDirName": "01-사용법/tutorial-basics",
               "slug": "/사용법/tutorial-basics/markdown-features",
@@ -173,11 +173,11 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create a Blog Post",
+                "title": "블로그 포스트 작성하기",
                 "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/create-a-blog-post"
               },
               "next": {
-                "title": "Deploy your site",
+                "title": "사이트 배포",
                 "permalink": "/OneZero_website/build/docs/사용법/tutorial-basics/deploy-your-site"
               }
             },
@@ -200,8 +200,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Tutorial - Extras",
-                "permalink": "/OneZero_website/build/docs/category/tutorial---extras"
+                "title": "설명서 - 심화",
+                "permalink": "/OneZero_website/build/docs/category/설명서---심화"
               },
               "next": {
                 "title": "Translate your site",
@@ -231,8 +231,8 @@
                 "permalink": "/OneZero_website/build/docs/사용법/tutorial-extras/manage-docs-versions"
               },
               "next": {
-                "title": "testTXT",
-                "permalink": "/OneZero_website/build/docs/Wiki/Web/JavaScript/testTXT"
+                "title": "문제 해결",
+                "permalink": "/OneZero_website/build/docs/category/문제-해결"
               }
             },
             {
@@ -253,6 +253,10 @@
               "previous": {
                 "title": "Test",
                 "permalink": "/OneZero_website/build/docs/Troubleshooting/test"
+              },
+              "next": {
+                "title": "Test",
+                "permalink": "/OneZero_website/build/docs/wiki/forDocId"
               }
             },
             {
@@ -274,8 +278,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Tutorial - Basics",
-                "permalink": "/OneZero_website/build/docs/category/tutorial---basics"
+                "title": "설명서 - 기본",
+                "permalink": "/OneZero_website/build/docs/category/설명서---기본"
               }
             },
             {
@@ -333,124 +337,20 @@
               }
             },
             {
-              "unversionedId": "Wiki/App/Flutter/testTXT",
-              "id": "Wiki/App/Flutter/testTXT",
-              "title": "testTXT",
+              "unversionedId": "wiki/forDocId",
+              "id": "wiki/forDocId",
+              "title": "Test",
               "description": "",
-              "source": "@site/docs/02-Wiki/02-App/Flutter/testTXT.md",
-              "sourceDirName": "02-Wiki/02-App/Flutter",
-              "slug": "/Wiki/App/Flutter/testTXT",
-              "permalink": "/OneZero_website/build/docs/Wiki/App/Flutter/testTXT",
+              "source": "@site/docs/wiki/forDocId.md",
+              "sourceDirName": "wiki",
+              "slug": "/wiki/forDocId",
+              "permalink": "/OneZero_website/build/docs/wiki/forDocId",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-Wiki/02-App/Flutter/testTXT.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/wiki/forDocId.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "testTXT",
-                "permalink": "/OneZero_website/build/docs/Wiki/Web/React/testTXT"
-              },
-              "next": {
-                "title": "testTXT",
-                "permalink": "/OneZero_website/build/docs/Wiki/App/React Native/testTXT"
-              }
-            },
-            {
-              "unversionedId": "Wiki/App/React Native/testTXT",
-              "id": "Wiki/App/React Native/testTXT",
-              "title": "testTXT",
-              "description": "",
-              "source": "@site/docs/02-Wiki/02-App/React Native/testTXT.md",
-              "sourceDirName": "02-Wiki/02-App/React Native",
-              "slug": "/Wiki/App/React Native/testTXT",
-              "permalink": "/OneZero_website/build/docs/Wiki/App/React Native/testTXT",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-Wiki/02-App/React Native/testTXT.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "testTXT",
-                "permalink": "/OneZero_website/build/docs/Wiki/App/Flutter/testTXT"
-              },
-              "next": {
-                "title": "testTXT",
-                "permalink": "/OneZero_website/build/docs/Wiki/Dev Env/Powershell/testTXT"
-              }
-            },
-            {
-              "unversionedId": "Wiki/Dev Env/Powershell/testTXT",
-              "id": "Wiki/Dev Env/Powershell/testTXT",
-              "title": "testTXT",
-              "description": "",
-              "source": "@site/docs/02-Wiki/Dev Env/Powershell/testTXT.md",
-              "sourceDirName": "02-Wiki/Dev Env/Powershell",
-              "slug": "/Wiki/Dev Env/Powershell/testTXT",
-              "permalink": "/OneZero_website/build/docs/Wiki/Dev Env/Powershell/testTXT",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-Wiki/Dev Env/Powershell/testTXT.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "testTXT",
-                "permalink": "/OneZero_website/build/docs/Wiki/App/React Native/testTXT"
-              },
-              "next": {
-                "title": "문제 해결",
-                "permalink": "/OneZero_website/build/docs/category/문제-해결"
-              }
-            },
-            {
-              "unversionedId": "Wiki/Web/JavaScript/testTXT",
-              "id": "Wiki/Web/JavaScript/testTXT",
-              "title": "testTXT",
-              "description": "",
-              "source": "@site/docs/02-Wiki/01-Web/JavaScript/testTXT.md",
-              "sourceDirName": "02-Wiki/01-Web/JavaScript",
-              "slug": "/Wiki/Web/JavaScript/testTXT",
-              "permalink": "/OneZero_website/build/docs/Wiki/Web/JavaScript/testTXT",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-Wiki/01-Web/JavaScript/testTXT.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Translate your site",
-                "permalink": "/OneZero_website/build/docs/사용법/tutorial-extras/translate-your-site"
-              },
-              "next": {
-                "title": "testTXT",
-                "permalink": "/OneZero_website/build/docs/Wiki/Web/React/testTXT"
-              }
-            },
-            {
-              "unversionedId": "Wiki/Web/React/testTXT",
-              "id": "Wiki/Web/React/testTXT",
-              "title": "testTXT",
-              "description": "",
-              "source": "@site/docs/02-Wiki/01-Web/React/testTXT.md",
-              "sourceDirName": "02-Wiki/01-Web/React",
-              "slug": "/Wiki/Web/React/testTXT",
-              "permalink": "/OneZero_website/build/docs/Wiki/Web/React/testTXT",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-Wiki/01-Web/React/testTXT.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "testTXT",
-                "permalink": "/OneZero_website/build/docs/Wiki/Web/JavaScript/testTXT"
-              },
-              "next": {
-                "title": "testTXT",
-                "permalink": "/OneZero_website/build/docs/Wiki/App/Flutter/testTXT"
-              }
+              "sidebar": "wiki-sidebar"
             }
           ],
           "drafts": [],
@@ -468,7 +368,7 @@
                 "items": [
                   {
                     "type": "category",
-                    "label": "Tutorial - Basics",
+                    "label": "설명서 - 기본",
                     "collapsible": true,
                     "collapsed": true,
                     "items": [
@@ -500,13 +400,13 @@
                     "link": {
                       "type": "generated-index",
                       "description": "5 minutes to learn the most important Docusaurus concepts.",
-                      "slug": "/category/tutorial---basics",
-                      "permalink": "/OneZero_website/build/docs/category/tutorial---basics"
+                      "slug": "/category/설명서---기본",
+                      "permalink": "/OneZero_website/build/docs/category/설명서---기본"
                     }
                   },
                   {
                     "type": "category",
-                    "label": "Tutorial - Extras",
+                    "label": "설명서 - 심화",
                     "collapsible": true,
                     "collapsed": true,
                     "items": [
@@ -521,101 +421,9 @@
                     ],
                     "link": {
                       "type": "generated-index",
-                      "slug": "/category/tutorial---extras",
-                      "permalink": "/OneZero_website/build/docs/category/tutorial---extras"
+                      "slug": "/category/설명서---심화",
+                      "permalink": "/OneZero_website/build/docs/category/설명서---심화"
                     }
-                  }
-                ]
-              },
-              {
-                "type": "category",
-                "label": "Wiki",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "category",
-                    "label": "Web",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "category",
-                        "label": "JavaScript",
-                        "collapsible": true,
-                        "collapsed": true,
-                        "items": [
-                          {
-                            "type": "doc",
-                            "id": "Wiki/Web/JavaScript/testTXT"
-                          }
-                        ]
-                      },
-                      {
-                        "type": "category",
-                        "label": "React",
-                        "collapsible": true,
-                        "collapsed": true,
-                        "items": [
-                          {
-                            "type": "doc",
-                            "id": "Wiki/Web/React/testTXT"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "category",
-                    "label": "App",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "category",
-                        "label": "Flutter",
-                        "collapsible": true,
-                        "collapsed": true,
-                        "items": [
-                          {
-                            "type": "doc",
-                            "id": "Wiki/App/Flutter/testTXT"
-                          }
-                        ]
-                      },
-                      {
-                        "type": "category",
-                        "label": "React Native",
-                        "collapsible": true,
-                        "collapsed": true,
-                        "items": [
-                          {
-                            "type": "doc",
-                            "id": "Wiki/App/React Native/testTXT"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "category",
-                    "label": "Dev Env",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "category",
-                        "label": "Powershell",
-                        "collapsible": true,
-                        "collapsed": true,
-                        "items": [
-                          {
-                            "type": "doc",
-                            "id": "Wiki/Dev Env/Powershell/testTXT"
-                          }
-                        ]
-                      }
-                    ]
                   }
                 ]
               },
@@ -660,6 +468,24 @@
                     "id": "학교 과정/testTXT"
                   }
                 ]
+              },
+              {
+                "type": "category",
+                "label": "wiki",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "wiki/forDocId"
+                  }
+                ]
+              }
+            ],
+            "wiki-sidebar": [
+              {
+                "type": "doc",
+                "id": "wiki/forDocId"
               }
             ]
           }

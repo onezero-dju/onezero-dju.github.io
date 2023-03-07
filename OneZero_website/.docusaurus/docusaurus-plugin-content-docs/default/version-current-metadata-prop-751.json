@@ -91,108 +91,6 @@
       },
       {
         "type": "category",
-        "label": "Wiki",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "category",
-            "label": "Web",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "category",
-                "label": "JavaScript",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "testTXT",
-                    "href": "/OneZero_website/build/en/docs/Wiki/Web/JavaScript/testTXT",
-                    "docId": "Wiki/Web/JavaScript/testTXT"
-                  }
-                ]
-              },
-              {
-                "type": "category",
-                "label": "React",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "testTXT",
-                    "href": "/OneZero_website/build/en/docs/Wiki/Web/React/testTXT",
-                    "docId": "Wiki/Web/React/testTXT"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "category",
-            "label": "App",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "category",
-                "label": "Flutter",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "testTXT",
-                    "href": "/OneZero_website/build/en/docs/Wiki/App/Flutter/testTXT",
-                    "docId": "Wiki/App/Flutter/testTXT"
-                  }
-                ]
-              },
-              {
-                "type": "category",
-                "label": "React Native",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "testTXT",
-                    "href": "/OneZero_website/build/en/docs/Wiki/App/React Native/testTXT",
-                    "docId": "Wiki/App/React Native/testTXT"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "category",
-            "label": "Dev Env",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "category",
-                "label": "Powershell",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "testTXT",
-                    "href": "/OneZero_website/build/en/docs/Wiki/Dev Env/Powershell/testTXT",
-                    "docId": "Wiki/Dev Env/Powershell/testTXT"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "category",
         "label": "Troubleshooting",
         "collapsible": true,
         "collapsed": true,
@@ -235,10 +133,26 @@
         ]
       },
       {
+        "type": "category",
+        "label": "wiki",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Test",
+            "href": "/OneZero_website/build/en/docs/wiki/forDocId",
+            "docId": "wiki/forDocId"
+          }
+        ]
+      }
+    ],
+    "wiki-sidebar": [
+      {
         "type": "link",
-        "label": "forDocId",
-        "href": "/OneZero_website/build/en/docs/forDocId",
-        "docId": "forDocId"
+        "label": "Test",
+        "href": "/OneZero_website/build/en/docs/wiki/forDocId",
+        "docId": "wiki/forDocId"
       }
     ]
   },
@@ -297,12 +211,6 @@
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "forDocId": {
-      "id": "forDocId",
-      "title": "forDocId",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
     "intro": {
       "id": "intro",
       "title": "Tutorial Intro",
@@ -321,35 +229,11 @@
       "description": "This is a test page",
       "sidebar": "tutorialSidebar"
     },
-    "Wiki/App/Flutter/testTXT": {
-      "id": "Wiki/App/Flutter/testTXT",
-      "title": "testTXT",
+    "wiki/forDocId": {
+      "id": "wiki/forDocId",
+      "title": "Test",
       "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "Wiki/App/React Native/testTXT": {
-      "id": "Wiki/App/React Native/testTXT",
-      "title": "testTXT",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "Wiki/Dev Env/Powershell/testTXT": {
-      "id": "Wiki/Dev Env/Powershell/testTXT",
-      "title": "testTXT",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "Wiki/Web/JavaScript/testTXT": {
-      "id": "Wiki/Web/JavaScript/testTXT",
-      "title": "testTXT",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "Wiki/Web/React/testTXT": {
-      "id": "Wiki/Web/React/testTXT",
-      "title": "testTXT",
-      "description": "",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "wiki-sidebar"
     }
   }
 }

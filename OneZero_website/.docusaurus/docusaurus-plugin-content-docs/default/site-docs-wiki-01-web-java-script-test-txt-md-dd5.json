@@ -1,0 +1,24 @@
+{
+  "unversionedId": "wiki/Web/JavaScript/testTXT",
+  "id": "wiki/Web/JavaScript/testTXT",
+  "title": "testTXT",
+  "description": "",
+  "source": "@site/docs/wiki/01-Web/JavaScript/testTXT.md",
+  "sourceDirName": "wiki/01-Web/JavaScript",
+  "slug": "/wiki/Web/JavaScript/testTXT",
+  "permalink": "/OneZero_website/build/docs/wiki/Web/JavaScript/testTXT",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/wiki/01-Web/JavaScript/testTXT.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "forDocId",
+    "permalink": "/OneZero_website/build/docs/forDocId"
+  },
+  "next": {
+    "title": "testTXT",
+    "permalink": "/OneZero_website/build/docs/wiki/Web/React/testTXT"
+  }
+}

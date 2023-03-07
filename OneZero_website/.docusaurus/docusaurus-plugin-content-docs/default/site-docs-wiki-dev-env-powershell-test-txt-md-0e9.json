@@ -1,0 +1,20 @@
+{
+  "unversionedId": "wiki/Dev Env/Powershell/testTXT",
+  "id": "wiki/Dev Env/Powershell/testTXT",
+  "title": "testTXT",
+  "description": "",
+  "source": "@site/docs/wiki/Dev Env/Powershell/testTXT.md",
+  "sourceDirName": "wiki/Dev Env/Powershell",
+  "slug": "/wiki/Dev Env/Powershell/testTXT",
+  "permalink": "/OneZero_website/build/docs/wiki/Dev Env/Powershell/testTXT",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/wiki/Dev Env/Powershell/testTXT.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "testTXT",
+    "permalink": "/OneZero_website/build/docs/wiki/App/React Native/testTXT"
+  }
+}

@@ -94,10 +94,21 @@ const config = {
             label: 'Tutorial',
           },
           {
-            type: 'doc',
-            docId: 'forDocId',
-            position: 'left',
+            type: 'dropdown',
             label: 'Wiki',
+            position: 'left',
+            docId: 'forDocId',
+            items: [
+              {
+                label: 'WIKI',
+                to: 'docs/wiki/forDocId',
+                sidebarLabel: 'WIKI side',
+                customProps: {
+                  // Optional: Use a separate sidebar for this section
+                  sidebar: 'wiki-sidebar',
+                },
+              },
+            ],
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {

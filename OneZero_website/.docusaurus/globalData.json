@@ -56,11 +56,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "forDocId",
-              "path": "/OneZero_website/build/en/docs/forDocId",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "intro",
               "path": "/OneZero_website/build/en/docs/intro",
               "sidebar": "tutorialSidebar"
@@ -76,29 +71,9 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Wiki/App/Flutter/testTXT",
-              "path": "/OneZero_website/build/en/docs/Wiki/App/Flutter/testTXT",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Wiki/App/React Native/testTXT",
-              "path": "/OneZero_website/build/en/docs/Wiki/App/React Native/testTXT",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Wiki/Dev Env/Powershell/testTXT",
-              "path": "/OneZero_website/build/en/docs/Wiki/Dev Env/Powershell/testTXT",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Wiki/Web/JavaScript/testTXT",
-              "path": "/OneZero_website/build/en/docs/Wiki/Web/JavaScript/testTXT",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Wiki/Web/React/testTXT",
-              "path": "/OneZero_website/build/en/docs/Wiki/Web/React/testTXT",
-              "sidebar": "tutorialSidebar"
+              "id": "wiki/forDocId",
+              "path": "/OneZero_website/build/en/docs/wiki/forDocId",
+              "sidebar": "wiki-sidebar"
             },
             {
               "id": "/category/설명서---기본",
@@ -122,6 +97,12 @@
               "link": {
                 "path": "/OneZero_website/build/en/docs/intro",
                 "label": "intro"
+              }
+            },
+            "wiki-sidebar": {
+              "link": {
+                "path": "/OneZero_website/build/en/docs/wiki/forDocId",
+                "label": "wiki/forDocId"
               }
             }
           }
