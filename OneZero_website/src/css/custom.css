@@ -6,11 +6,11 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #fff8e7;
+  --ifm-color-primary: #ffdf23;
   --ifm-background-color: #36454f;
   /* --ifm-background-surface-color: #000000; */
   --ifm-navbar-background-color: #36454f;
-  --ifm-font-color-base: #faa224;
+  --ifm-font-color-base: #fff8e7;
   --ifm-navbar-link-color: #fff8e7;
   --ifm-navbar-link-hover-color: #faa224;
   /* Have to change below components
