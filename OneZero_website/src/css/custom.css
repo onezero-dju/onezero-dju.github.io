@@ -6,7 +6,17 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #faa224;
+  --ifm-color-primary: #fff8e7;
+  --ifm-background-color: #36454f;
+  /* --ifm-background-surface-color: #000000; */
+  --ifm-navbar-background-color: #36454f;
+  --ifm-font-color-base: #faa224;
+  --ifm-navbar-link-color: #fff8e7;
+  --ifm-navbar-link-hover-color: #faa224;
+  /* Have to change below components
+      1. Color of the title, and the background of it.
+      2. Background color of code format text */
+
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
@@ -20,7 +30,7 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary: #c6801c;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
   --ifm-color-primary-darkest: #1a8870;
