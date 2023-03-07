@@ -255,9 +255,9 @@
     "532": {
       "css": [
         {
-          "file": "assets/css/styles.820e65fa.css",
-          "hash": "e0d662d0818ac16d",
-          "publicPath": "/OneZero_website/build/en/assets/css/styles.820e65fa.css"
+          "file": "assets/css/styles.22a0afff.css",
+          "hash": "8547d5762cfbc4d0",
+          "publicPath": "/OneZero_website/build/en/assets/css/styles.22a0afff.css"
         }
       ]
     },
@@ -292,7 +292,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.5f66e5b7.js",
-          "hash": "a45c795414069514",
+          "hash": "5d93892b81629026",
           "publicPath": "/OneZero_website/build/en/assets/js/runtime~main.5f66e5b7.js"
         }
       ]
