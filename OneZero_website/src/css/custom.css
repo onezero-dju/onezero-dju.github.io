@@ -5,17 +5,25 @@
  */
 
 /* You can override the default Infima variables here. */
+.header {
+  background-color: #1a8870;
+}
+
 :root {
-  --ifm-color-primary: #ffdf23;
+  --ifm-color-primary: #3B759C; /*#ffdf23*/
   --ifm-background-color: #36454f;
-  /* --ifm-background-surface-color: #000000; */
-  --ifm-navbar-background-color: #36454f;
+  /* --ifm-background-surface-color: #13171c; */
+  --ifm-navbar-background-color: var(--ifm-background-color);
   --ifm-font-color-base: #fff8e7;
   --ifm-navbar-link-color: #fff8e7;
   --ifm-navbar-link-hover-color: #faa224;
-  /* Have to change below components
-      1. Color of the title, and the background of it.
-      2. Background color of code format text */
+  --ifm-code-background: #6A889C; /* Background color of code format text */
+  --ifm-heading-color: #faa224; /* Color of the main title */
+  --ifm-link-color: #9ECAE8;
+  /* Have to change color of sidebar items */
+  /* --ifm-sidebar-link-color: #ffffff; -> not working*/
+  
+  
 
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
