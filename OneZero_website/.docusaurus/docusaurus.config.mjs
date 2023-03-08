@@ -68,7 +68,7 @@ export default {
       "title": "One Zero",
       "logo": {
         "alt": "[One Zero] Logo",
-        "src": "img/logo.svg"
+        "src": "img/logo_mastered.svg"
       },
       "items": [
         {
