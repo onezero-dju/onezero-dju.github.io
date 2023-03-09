@@ -85,7 +85,7 @@ export default {
           "items": [
             {
               "label": "WIKI",
-              "to": "docs/wiki/forDocId",
+              "to": "docs/wiki/wiki-intro",
               "sidebarLabel": "WIKI side",
               "customProps": {
                 "sidebar": "wiki-sidebar"

@@ -6,7 +6,7 @@
   "source": "@site/docs/wiki/02-App/React Native/testTXT.md",
   "sourceDirName": "wiki/02-App/React Native",
   "slug": "/wiki/App/React Native/testTXT",
-  "permalink": "/OneZero_website/build/docs/wiki/App/React Native/testTXT",
+  "permalink": "/OneZero_website/build/en/docs/wiki/App/React Native/testTXT",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/wiki/02-App/React Native/testTXT.md",
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "testTXT",
-    "permalink": "/OneZero_website/build/docs/wiki/App/Flutter/testTXT"
+    "permalink": "/OneZero_website/build/en/docs/wiki/App/Flutter/testTXT"
   },
   "next": {
     "title": "testTXT",
-    "permalink": "/OneZero_website/build/docs/wiki/Dev Env/Powershell/testTXT"
+    "permalink": "/OneZero_website/build/en/docs/wiki/Dev Env/Powershell/testTXT"
   }
 }

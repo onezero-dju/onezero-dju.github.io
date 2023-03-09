@@ -1,0 +1,16 @@
+{
+  "title": "WikI",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/wiki",
+  "permalink": "/OneZero_website/build/docs/category/wiki",
+  "navigation": {
+    "previous": {
+      "title": "testTXT",
+      "permalink": "/OneZero_website/build/docs/학교 과정/testTXT"
+    },
+    "next": {
+      "title": "testTXT",
+      "permalink": "/OneZero_website/build/docs/wiki/Web/JavaScript/testTXT"
+    }
+  }
+}

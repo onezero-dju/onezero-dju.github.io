@@ -1,0 +1,16 @@
+{
+  "title": "설명서 - 기본",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/설명서---기본-1",
+  "permalink": "/OneZero_website/build/docs/category/설명서---기본-1",
+  "navigation": {
+    "previous": {
+      "title": "testTXT",
+      "permalink": "/OneZero_website/build/docs/학교 과정/testTXT"
+    },
+    "next": {
+      "title": "testTXT",
+      "permalink": "/OneZero_website/build/docs/wiki/Web/JavaScript/testTXT"
+    }
+  }
+}

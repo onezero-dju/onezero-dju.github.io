@@ -74,7 +74,7 @@ export default [
   },
   {
     path: '/OneZero_website/build/en/docs',
-    component: ComponentCreator('/OneZero_website/build/en/docs', '846'),
+    component: ComponentCreator('/OneZero_website/build/en/docs', '75f'),
     routes: [
       {
         path: '/OneZero_website/build/en/docs/사용법/tutorial-basics/congratulations',
@@ -149,6 +149,12 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/OneZero_website/build/en/docs/category/wiki',
+        component: ComponentCreator('/OneZero_website/build/en/docs/category/wiki', 'eae'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/OneZero_website/build/en/docs/intro',
         component: ComponentCreator('/OneZero_website/build/en/docs/intro', '53f'),
         exact: true,
@@ -167,8 +173,38 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/OneZero_website/build/en/docs/wiki/forDocId',
-        component: ComponentCreator('/OneZero_website/build/en/docs/wiki/forDocId', 'c37'),
+        path: '/OneZero_website/build/en/docs/wiki/App/Flutter/testTXT',
+        component: ComponentCreator('/OneZero_website/build/en/docs/wiki/App/Flutter/testTXT', '9e1'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/OneZero_website/build/en/docs/wiki/App/React Native/testTXT',
+        component: ComponentCreator('/OneZero_website/build/en/docs/wiki/App/React Native/testTXT', '5d7'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/OneZero_website/build/en/docs/wiki/Dev Env/Powershell/testTXT',
+        component: ComponentCreator('/OneZero_website/build/en/docs/wiki/Dev Env/Powershell/testTXT', 'da7'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/OneZero_website/build/en/docs/wiki/Web/JavaScript/testTXT',
+        component: ComponentCreator('/OneZero_website/build/en/docs/wiki/Web/JavaScript/testTXT', '3f9'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/OneZero_website/build/en/docs/wiki/Web/React/testTXT',
+        component: ComponentCreator('/OneZero_website/build/en/docs/wiki/Web/React/testTXT', '3e8'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/OneZero_website/build/en/docs/wiki/wiki-intro',
+        component: ComponentCreator('/OneZero_website/build/en/docs/wiki/wiki-intro', 'b4d'),
         exact: true,
         sidebar: "wiki-sidebar"
       }

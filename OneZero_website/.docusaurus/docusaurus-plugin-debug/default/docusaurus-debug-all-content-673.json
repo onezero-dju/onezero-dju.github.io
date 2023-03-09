@@ -255,8 +255,8 @@
                 "permalink": "/OneZero_website/build/docs/Troubleshooting/test"
               },
               "next": {
-                "title": "Test",
-                "permalink": "/OneZero_website/build/docs/wiki/forDocId"
+                "title": "WikI",
+                "permalink": "/OneZero_website/build/docs/category/wiki"
               }
             },
             {
@@ -337,16 +337,136 @@
               }
             },
             {
-              "unversionedId": "wiki/forDocId",
-              "id": "wiki/forDocId",
-              "title": "Test",
+              "unversionedId": "wiki/App/Flutter/testTXT",
+              "id": "wiki/App/Flutter/testTXT",
+              "title": "testTXT",
               "description": "",
-              "source": "@site/docs/wiki/forDocId.md",
-              "sourceDirName": "wiki",
-              "slug": "/wiki/forDocId",
-              "permalink": "/OneZero_website/build/docs/wiki/forDocId",
+              "source": "@site/docs/wiki/02-App/Flutter/testTXT.md",
+              "sourceDirName": "wiki/02-App/Flutter",
+              "slug": "/wiki/App/Flutter/testTXT",
+              "permalink": "/OneZero_website/build/docs/wiki/App/Flutter/testTXT",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/wiki/forDocId.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/wiki/02-App/Flutter/testTXT.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "testTXT",
+                "permalink": "/OneZero_website/build/docs/wiki/Web/React/testTXT"
+              },
+              "next": {
+                "title": "testTXT",
+                "permalink": "/OneZero_website/build/docs/wiki/App/React Native/testTXT"
+              }
+            },
+            {
+              "unversionedId": "wiki/App/React Native/testTXT",
+              "id": "wiki/App/React Native/testTXT",
+              "title": "testTXT",
+              "description": "",
+              "source": "@site/docs/wiki/02-App/React Native/testTXT.md",
+              "sourceDirName": "wiki/02-App/React Native",
+              "slug": "/wiki/App/React Native/testTXT",
+              "permalink": "/OneZero_website/build/docs/wiki/App/React Native/testTXT",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/wiki/02-App/React Native/testTXT.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "testTXT",
+                "permalink": "/OneZero_website/build/docs/wiki/App/Flutter/testTXT"
+              },
+              "next": {
+                "title": "testTXT",
+                "permalink": "/OneZero_website/build/docs/wiki/Dev Env/Powershell/testTXT"
+              }
+            },
+            {
+              "unversionedId": "wiki/Dev Env/Powershell/testTXT",
+              "id": "wiki/Dev Env/Powershell/testTXT",
+              "title": "testTXT",
+              "description": "",
+              "source": "@site/docs/wiki/Dev Env/Powershell/testTXT.md",
+              "sourceDirName": "wiki/Dev Env/Powershell",
+              "slug": "/wiki/Dev Env/Powershell/testTXT",
+              "permalink": "/OneZero_website/build/docs/wiki/Dev Env/Powershell/testTXT",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/wiki/Dev Env/Powershell/testTXT.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "testTXT",
+                "permalink": "/OneZero_website/build/docs/wiki/App/React Native/testTXT"
+              },
+              "next": {
+                "title": "Wiki Intro",
+                "permalink": "/OneZero_website/build/docs/wiki/wiki-intro"
+              }
+            },
+            {
+              "unversionedId": "wiki/Web/JavaScript/testTXT",
+              "id": "wiki/Web/JavaScript/testTXT",
+              "title": "testTXT",
+              "description": "",
+              "source": "@site/docs/wiki/01-Web/JavaScript/testTXT.md",
+              "sourceDirName": "wiki/01-Web/JavaScript",
+              "slug": "/wiki/Web/JavaScript/testTXT",
+              "permalink": "/OneZero_website/build/docs/wiki/Web/JavaScript/testTXT",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/wiki/01-Web/JavaScript/testTXT.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "WikI",
+                "permalink": "/OneZero_website/build/docs/category/wiki"
+              },
+              "next": {
+                "title": "testTXT",
+                "permalink": "/OneZero_website/build/docs/wiki/Web/React/testTXT"
+              }
+            },
+            {
+              "unversionedId": "wiki/Web/React/testTXT",
+              "id": "wiki/Web/React/testTXT",
+              "title": "testTXT",
+              "description": "",
+              "source": "@site/docs/wiki/01-Web/React/testTXT.md",
+              "sourceDirName": "wiki/01-Web/React",
+              "slug": "/wiki/Web/React/testTXT",
+              "permalink": "/OneZero_website/build/docs/wiki/Web/React/testTXT",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/wiki/01-Web/React/testTXT.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "testTXT",
+                "permalink": "/OneZero_website/build/docs/wiki/Web/JavaScript/testTXT"
+              },
+              "next": {
+                "title": "testTXT",
+                "permalink": "/OneZero_website/build/docs/wiki/App/Flutter/testTXT"
+              }
+            },
+            {
+              "unversionedId": "wiki/wiki-intro",
+              "id": "wiki/wiki-intro",
+              "title": "Wiki Intro",
+              "description": "",
+              "source": "@site/docs/wiki/wiki-intro.md",
+              "sourceDirName": "wiki",
+              "slug": "/wiki/wiki-intro",
+              "permalink": "/OneZero_website/build/docs/wiki/wiki-intro",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/wiki/wiki-intro.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -471,21 +591,111 @@
               },
               {
                 "type": "category",
-                "label": "wiki",
+                "label": "WikI",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
+                    "type": "category",
+                    "label": "Web",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "category",
+                        "label": "JavaScript",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "wiki/Web/JavaScript/testTXT"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "category",
+                        "label": "React",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "wiki/Web/React/testTXT"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "App",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "category",
+                        "label": "Flutter",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "wiki/App/Flutter/testTXT"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "category",
+                        "label": "React Native",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "wiki/App/React Native/testTXT"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "Dev Env",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "category",
+                        "label": "Powershell",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "wiki/Dev Env/Powershell/testTXT"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
                     "type": "doc",
-                    "id": "wiki/forDocId"
+                    "id": "wiki/wiki-intro"
                   }
-                ]
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/wiki",
+                  "permalink": "/OneZero_website/build/docs/category/wiki"
+                }
               }
             ],
             "wiki-sidebar": [
               {
                 "type": "doc",
-                "id": "wiki/forDocId"
+                "id": "wiki/wiki-intro"
               }
             ]
           }

@@ -71,8 +71,33 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "wiki/forDocId",
-              "path": "/OneZero_website/build/en/docs/wiki/forDocId",
+              "id": "wiki/App/Flutter/testTXT",
+              "path": "/OneZero_website/build/en/docs/wiki/App/Flutter/testTXT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "wiki/App/React Native/testTXT",
+              "path": "/OneZero_website/build/en/docs/wiki/App/React Native/testTXT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "wiki/Dev Env/Powershell/testTXT",
+              "path": "/OneZero_website/build/en/docs/wiki/Dev Env/Powershell/testTXT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "wiki/Web/JavaScript/testTXT",
+              "path": "/OneZero_website/build/en/docs/wiki/Web/JavaScript/testTXT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "wiki/Web/React/testTXT",
+              "path": "/OneZero_website/build/en/docs/wiki/Web/React/testTXT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "wiki/wiki-intro",
+              "path": "/OneZero_website/build/en/docs/wiki/wiki-intro",
               "sidebar": "wiki-sidebar"
             },
             {
@@ -89,6 +114,11 @@
               "id": "/category/문제-해결",
               "path": "/OneZero_website/build/en/docs/category/문제-해결",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/wiki",
+              "path": "/OneZero_website/build/en/docs/category/wiki",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
@@ -101,8 +131,8 @@
             },
             "wiki-sidebar": {
               "link": {
-                "path": "/OneZero_website/build/en/docs/wiki/forDocId",
-                "label": "wiki/forDocId"
+                "path": "/OneZero_website/build/en/docs/wiki/wiki-intro",
+                "label": "wiki/wiki-intro"
               }
             }
           }
