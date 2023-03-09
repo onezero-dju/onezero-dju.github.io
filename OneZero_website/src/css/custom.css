@@ -5,8 +5,8 @@
  */
 
 /* You can override the default Infima variables here. */
-.header {
-  background-color: #1a8870;
+.dropdown__menu a {
+  color: #8CB4CF;
 }
 
 :root {
@@ -20,6 +20,7 @@
   --ifm-code-background: #6A889C; /* Background color of code format text */
   --ifm-heading-color: #faa224; /* Color of the main title */
   --ifm-link-color: #9ECAE8;
+  --ifm-dropdown-background-color: #284F69;
   /* Have to change color of sidebar items */
   /* --ifm-sidebar-link-color: #ffffff; -> not working*/
   
