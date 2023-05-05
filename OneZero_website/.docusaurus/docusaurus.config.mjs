@@ -28,7 +28,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\기택\\Desktop\\OneZero homepage\\OneZero_website\\sidebars.js",
+          "sidebarPath": "C:\\Users\\samsc\\Documents\\_Projects\\OneZero Website\\OneZero_website\\sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -36,7 +36,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "C:\\Users\\기택\\Desktop\\OneZero homepage\\OneZero_website\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\samsc\\Documents\\_Projects\\OneZero Website\\OneZero_website\\src\\css\\custom.css"
         }
       }
     ]

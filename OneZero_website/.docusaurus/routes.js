@@ -4,77 +4,77 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/OneZero_website/build/en/blog',
-    component: ComponentCreator('/OneZero_website/build/en/blog', '068'),
+    component: ComponentCreator('/OneZero_website/build/en/blog', '8e8'),
     exact: true
   },
   {
     path: '/OneZero_website/build/en/blog/archive',
-    component: ComponentCreator('/OneZero_website/build/en/blog/archive', '040'),
+    component: ComponentCreator('/OneZero_website/build/en/blog/archive', 'c4e'),
     exact: true
   },
   {
     path: '/OneZero_website/build/en/blog/first post',
-    component: ComponentCreator('/OneZero_website/build/en/blog/first post', '0c5'),
+    component: ComponentCreator('/OneZero_website/build/en/blog/first post', 'e89'),
     exact: true
   },
   {
     path: '/OneZero_website/build/en/blog/first-blog-post',
-    component: ComponentCreator('/OneZero_website/build/en/blog/first-blog-post', 'bf9'),
+    component: ComponentCreator('/OneZero_website/build/en/blog/first-blog-post', '628'),
     exact: true
   },
   {
     path: '/OneZero_website/build/en/blog/long-blog-post',
-    component: ComponentCreator('/OneZero_website/build/en/blog/long-blog-post', '8e0'),
+    component: ComponentCreator('/OneZero_website/build/en/blog/long-blog-post', '03c'),
     exact: true
   },
   {
     path: '/OneZero_website/build/en/blog/mdx-blog-post',
-    component: ComponentCreator('/OneZero_website/build/en/blog/mdx-blog-post', '5a5'),
+    component: ComponentCreator('/OneZero_website/build/en/blog/mdx-blog-post', 'e5c'),
     exact: true
   },
   {
     path: '/OneZero_website/build/en/blog/tags',
-    component: ComponentCreator('/OneZero_website/build/en/blog/tags', '9d5'),
+    component: ComponentCreator('/OneZero_website/build/en/blog/tags', 'c0e'),
     exact: true
   },
   {
     path: '/OneZero_website/build/en/blog/tags/docusaurus',
-    component: ComponentCreator('/OneZero_website/build/en/blog/tags/docusaurus', 'bc4'),
+    component: ComponentCreator('/OneZero_website/build/en/blog/tags/docusaurus', 'eeb'),
     exact: true
   },
   {
     path: '/OneZero_website/build/en/blog/tags/facebook',
-    component: ComponentCreator('/OneZero_website/build/en/blog/tags/facebook', 'f9b'),
+    component: ComponentCreator('/OneZero_website/build/en/blog/tags/facebook', '862'),
     exact: true
   },
   {
     path: '/OneZero_website/build/en/blog/tags/greetings',
-    component: ComponentCreator('/OneZero_website/build/en/blog/tags/greetings', '688'),
+    component: ComponentCreator('/OneZero_website/build/en/blog/tags/greetings', 'a8f'),
     exact: true
   },
   {
     path: '/OneZero_website/build/en/blog/tags/hello',
-    component: ComponentCreator('/OneZero_website/build/en/blog/tags/hello', '732'),
+    component: ComponentCreator('/OneZero_website/build/en/blog/tags/hello', '31e'),
     exact: true
   },
   {
     path: '/OneZero_website/build/en/blog/tags/hola',
-    component: ComponentCreator('/OneZero_website/build/en/blog/tags/hola', 'bae'),
+    component: ComponentCreator('/OneZero_website/build/en/blog/tags/hola', '503'),
     exact: true
   },
   {
     path: '/OneZero_website/build/en/blog/welcome',
-    component: ComponentCreator('/OneZero_website/build/en/blog/welcome', '427'),
+    component: ComponentCreator('/OneZero_website/build/en/blog/welcome', 'a0e'),
     exact: true
   },
   {
     path: '/OneZero_website/build/en/markdown-page',
-    component: ComponentCreator('/OneZero_website/build/en/markdown-page', '4c1'),
+    component: ComponentCreator('/OneZero_website/build/en/markdown-page', '305'),
     exact: true
   },
   {
     path: '/OneZero_website/build/en/docs',
-    component: ComponentCreator('/OneZero_website/build/en/docs', '75f'),
+    component: ComponentCreator('/OneZero_website/build/en/docs', 'ab7'),
     routes: [
       {
         path: '/OneZero_website/build/en/docs/사용법/tutorial-basics/congratulations',
@@ -212,7 +212,7 @@ export default [
   },
   {
     path: '/OneZero_website/build/en/',
-    component: ComponentCreator('/OneZero_website/build/en/', '8ef'),
+    component: ComponentCreator('/OneZero_website/build/en/', '4d4'),
     exact: true
   },
   {

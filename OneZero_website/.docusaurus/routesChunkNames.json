@@ -1,8 +1,8 @@
 {
-  "/OneZero_website/build/en/blog-068": {
+  "/OneZero_website/build/en/blog-8e8": {
     "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "118cf87f"
+      "plugin": "1f0552f5"
     },
     "sidebar": "814f3328",
     "items": [
@@ -24,57 +24,57 @@
     ],
     "metadata": "66db246d"
   },
-  "/OneZero_website/build/en/blog/archive-040": {
+  "/OneZero_website/build/en/blog/archive-c4e": {
     "__comp": "9e4087bc",
     "__context": {
-      "plugin": "118cf87f"
+      "plugin": "1f0552f5"
     },
     "archive": "27291635"
   },
-  "/OneZero_website/build/en/blog/first post-0c5": {
+  "/OneZero_website/build/en/blog/first post-e89": {
     "__comp": "ccc49370",
     "__context": {
-      "plugin": "118cf87f"
+      "plugin": "1f0552f5"
     },
     "sidebar": "814f3328",
     "content": "ab84d47b"
   },
-  "/OneZero_website/build/en/blog/first-blog-post-bf9": {
+  "/OneZero_website/build/en/blog/first-blog-post-628": {
     "__comp": "ccc49370",
     "__context": {
-      "plugin": "118cf87f"
+      "plugin": "1f0552f5"
     },
     "sidebar": "814f3328",
     "content": "e273c56f"
   },
-  "/OneZero_website/build/en/blog/long-blog-post-8e0": {
+  "/OneZero_website/build/en/blog/long-blog-post-03c": {
     "__comp": "ccc49370",
     "__context": {
-      "plugin": "118cf87f"
+      "plugin": "1f0552f5"
     },
     "sidebar": "814f3328",
     "content": "73664a40"
   },
-  "/OneZero_website/build/en/blog/mdx-blog-post-5a5": {
+  "/OneZero_website/build/en/blog/mdx-blog-post-e5c": {
     "__comp": "ccc49370",
     "__context": {
-      "plugin": "118cf87f"
+      "plugin": "1f0552f5"
     },
     "sidebar": "814f3328",
     "content": "59362658"
   },
-  "/OneZero_website/build/en/blog/tags-9d5": {
+  "/OneZero_website/build/en/blog/tags-c0e": {
     "__comp": "01a85c17",
     "__context": {
-      "plugin": "118cf87f"
+      "plugin": "1f0552f5"
     },
     "sidebar": "814f3328",
     "tags": "7fe7e7ef"
   },
-  "/OneZero_website/build/en/blog/tags/docusaurus-bc4": {
+  "/OneZero_website/build/en/blog/tags/docusaurus-eeb": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "118cf87f"
+      "plugin": "1f0552f5"
     },
     "sidebar": "814f3328",
     "items": [
@@ -94,10 +94,10 @@
     "tag": "68fff38a",
     "listMetadata": "81f3e2ea"
   },
-  "/OneZero_website/build/en/blog/tags/facebook-f9b": {
+  "/OneZero_website/build/en/blog/tags/facebook-862": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "118cf87f"
+      "plugin": "1f0552f5"
     },
     "sidebar": "814f3328",
     "items": [
@@ -108,10 +108,10 @@
     "tag": "4e208616",
     "listMetadata": "7eb846d9"
   },
-  "/OneZero_website/build/en/blog/tags/greetings-688": {
+  "/OneZero_website/build/en/blog/tags/greetings-a8f": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "118cf87f"
+      "plugin": "1f0552f5"
     },
     "sidebar": "814f3328",
     "items": [
@@ -122,10 +122,10 @@
     "tag": "2e3ee0d8",
     "listMetadata": "572d0a10"
   },
-  "/OneZero_website/build/en/blog/tags/hello-732": {
+  "/OneZero_website/build/en/blog/tags/hello-31e": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "118cf87f"
+      "plugin": "1f0552f5"
     },
     "sidebar": "814f3328",
     "items": [
@@ -139,10 +139,10 @@
     "tag": "13d2f51f",
     "listMetadata": "4b44316e"
   },
-  "/OneZero_website/build/en/blog/tags/hola-bae": {
+  "/OneZero_website/build/en/blog/tags/hola-503": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "118cf87f"
+      "plugin": "1f0552f5"
     },
     "sidebar": "814f3328",
     "items": [
@@ -153,25 +153,25 @@
     "tag": "51a302bf",
     "listMetadata": "23389f51"
   },
-  "/OneZero_website/build/en/blog/welcome-427": {
+  "/OneZero_website/build/en/blog/welcome-a0e": {
     "__comp": "ccc49370",
     "__context": {
-      "plugin": "118cf87f"
+      "plugin": "1f0552f5"
     },
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
-  "/OneZero_website/build/en/markdown-page-4c1": {
+  "/OneZero_website/build/en/markdown-page-305": {
     "__comp": "1f391b9e",
     "__context": {
-      "plugin": "8db6f994"
+      "plugin": "a5c201d5"
     },
     "content": "393be207"
   },
-  "/OneZero_website/build/en/docs-75f": {
+  "/OneZero_website/build/en/docs-ab7": {
     "__comp": "1be78505",
     "__context": {
-      "plugin": "317352a0"
+      "plugin": "fb2184d3"
     },
     "versionMetadata": "935f2afb"
   },
@@ -263,10 +263,10 @@
     "__comp": "17896441",
     "content": "d36c833d"
   },
-  "/OneZero_website/build/en/-8ef": {
+  "/OneZero_website/build/en/-4d4": {
     "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "8db6f994"
+      "plugin": "a5c201d5"
     },
     "config": "5e9f5e1a"
   }

@@ -9,6 +9,10 @@
   color: #8CB4CF;
 }
 
+.table-of-contents__link--active {
+  color: #fff8e7;
+}
+
 :root {
   --ifm-color-primary: #3B759C; /*#ffdf23*/
   --ifm-background-color: #36454f;
@@ -22,7 +26,10 @@
   --ifm-link-color: #9ECAE8;
   --ifm-dropdown-background-color: #284F69;
   /* Have to change color of sidebar items */
-  /* --ifm-sidebar-link-color: #ffffff; -> not working*/
+  --ifm-menu-color-active: var(--ifm-font-color-base);
+  --ifm-menu-color: var(--ifm-code-background);
+  --ifm-toc-link-color: var(--ifm-menu-color);
+
   
   
 
